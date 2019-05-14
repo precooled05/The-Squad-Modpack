@@ -1,0 +1,1254 @@
+[22:44:12] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:44:12] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:44:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:44:12] [main/DEBUG] [FML]: Injecting tracing printstreams for STDOUT/STDERR.
+[22:44:12] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2838 for Minecraft 1.12.2 loading
+[22:44:12] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_201, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_201
+[22:44:12] [main/DEBUG] [FML]: Java classpath at launch is:
+[22:44:12] [main/DEBUG] [FML]:     forge-1.12.2-14.23.5.2838-universal.jar
+[22:44:12] [main/DEBUG] [FML]: Java library path at launch is:
+[22:44:12] [main/DEBUG] [FML]:     C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+[22:44:12] [main/DEBUG] [FML]:     C:\WINDOWS\Sun\Java\bin
+[22:44:12] [main/DEBUG] [FML]:     C:\WINDOWS\system32
+[22:44:12] [main/DEBUG] [FML]:     C:\WINDOWS
+[22:44:12] [main/DEBUG] [FML]:     C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+[22:44:12] [main/DEBUG] [FML]:     C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler
+[22:44:12] [main/DEBUG] [FML]:     C:\Windows\system32
+[22:44:12] [main/DEBUG] [FML]:     C:\Windows
+[22:44:12] [main/DEBUG] [FML]:     C:\Windows\System32\Wbem
+[22:44:12] [main/DEBUG] [FML]:     C:\Windows\System32\WindowsPowerShell\v1.0\
+[22:44:12] [main/DEBUG] [FML]:     C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR
+[22:44:12] [main/DEBUG] [FML]:     C:\WINDOWS\system32
+[22:44:12] [main/DEBUG] [FML]:     C:\WINDOWS
+[22:44:12] [main/DEBUG] [FML]:     C:\WINDOWS\System32\Wbem
+[22:44:12] [main/DEBUG] [FML]:     C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+[22:44:12] [main/DEBUG] [FML]:     C:\WINDOWS\System32\OpenSSH\
+[22:44:12] [main/DEBUG] [FML]:     C:\Program Files\Git\cmd
+[22:44:12] [main/DEBUG] [FML]:     C:\Program Files\dotnet\
+[22:44:12] [main/DEBUG] [FML]:     C:\Program Files\PuTTY\
+[22:44:12] [main/DEBUG] [FML]:     C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common
+[22:44:12] [main/DEBUG] [FML]:     C:\Program Files\nodejs\
+[22:44:12] [main/DEBUG] [FML]:     C:\Users\P R E 0 5\AppData\Local\Programs\Python\Python37-32\Scripts\
+[22:44:12] [main/DEBUG] [FML]:     C:\Users\P R E 0 5\AppData\Local\Programs\Python\Python37-32\
+[22:44:12] [main/DEBUG] [FML]:     C:\Users\P R E 0 5\AppData\Local\Programs\Python\Python36\Scripts\
+[22:44:12] [main/DEBUG] [FML]:     C:\Users\P R E 0 5\AppData\Local\Programs\Python\Python36\
+[22:44:12] [main/DEBUG] [FML]:     C:\Users\P R E 0 5\AppData\Local\Microsoft\WindowsApps
+[22:44:12] [main/DEBUG] [FML]:     C:\Program Files\JetBrains\PyCharm Community Edition 2018.3\bin
+[22:44:12] [main/DEBUG] [FML]:     C:\Users\P R E 0 5\AppData\Local\atom\bin
+[22:44:12] [main/DEBUG] [FML]:     C:\Users\P R E 0 5\AppData\Local\Microsoft\WindowsApps
+[22:44:12] [main/DEBUG] [FML]:     C:\Users\P R E 0 5\AppData\Local\GitHubDesktop\bin
+[22:44:12] [main/DEBUG] [FML]:     C:\Users\P R E 0 5\AppData\Roaming\npm
+[22:44:12] [main/DEBUG] [FML]:     .
+[22:44:12] [main/DEBUG] [FML]: Determined Minecraft Libraries Root: C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\server\libraries
+[22:44:12] [main/DEBUG] [FML]: Cleaning up mods folder: .\mods
+[22:44:12] [main/DEBUG] [FML]: Examining file: Chisel-MC1.12.2-0.2.1.35.jar
+[22:44:12] [main/DEBUG] [FML]: Examining file: ChunkAnimator-MC1.12-1.2.jar
+[22:44:12] [main/DEBUG] [FML]: Examining file: CTM-MC1.12.2-0.3.3.22.jar
+[22:44:12] [main/DEBUG] [FML]: Examining file: Decocraft-2.6.2_1.12.2.jar
+[22:44:13] [main/DEBUG] [FML]: Examining file: ironchest-1.12.2-7.0.59.842.jar
+[22:44:13] [main/DEBUG] [FML]: Examining file: Mantle-1.12-1.3.3.49.jar
+[22:44:13] [main/DEBUG] [FML]: Examining file: PTRLib-1.0.4.jar
+[22:44:13] [main/DEBUG] [FML]: Examining file: TConstruct-1.12.2-2.12.0.135.jar
+[22:44:13] [main/DEBUG] [FML]: Examining file: Treecapitator-1.12-at_0.9a.jar
+[22:44:13] [main/DEBUG] [FML]: Enabling runtime deobfuscation
+[22:44:13] [main/DEBUG] [FML]: Instantiating coremod class FMLCorePlugin
+[22:44:13] [main/DEBUG] [FML]: Found signing certificates for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin)
+[22:44:13] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:44:13] [main/DEBUG] [FML]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[22:44:13] [main/DEBUG] [FML]: Enqueued coremod FMLCorePlugin
+[22:44:13] [main/DEBUG] [FML]: Instantiating coremod class FMLForgePlugin
+[22:44:13] [main/DEBUG] [FML]: Found signing certificates for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin)
+[22:44:13] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:44:13] [main/DEBUG] [FML]: Enqueued coremod FMLForgePlugin
+[22:44:13] [main/DEBUG] [FML]: All fundamental core mods are successfully located
+[22:44:13] [main/DEBUG] [FML]: Discovering coremods
+[22:44:13] [main/INFO] [FML]: Searching C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\server\.\mods for mods
+[22:44:13] [main/DEBUG] [FML]:   Adding Chisel-MC1.12.2-0.2.1.35.jar to the mod list
+[22:44:13] [main/DEBUG] [FML]:   Adding ChunkAnimator-MC1.12-1.2.jar to the mod list
+[22:44:13] [main/DEBUG] [FML]:   Adding CTM-MC1.12.2-0.3.3.22.jar to the mod list
+[22:44:13] [main/DEBUG] [FML]:   Adding Decocraft-2.6.2_1.12.2.jar to the mod list
+[22:44:13] [main/DEBUG] [FML]:   Adding ironchest-1.12.2-7.0.59.842.jar to the mod list
+[22:44:13] [main/DEBUG] [FML]:   Adding Mantle-1.12-1.3.3.49.jar to the mod list
+[22:44:13] [main/DEBUG] [FML]:   Adding PTRLib-1.0.4.jar to the mod list
+[22:44:13] [main/DEBUG] [FML]:   Adding TConstruct-1.12.2-2.12.0.135.jar to the mod list
+[22:44:13] [main/DEBUG] [FML]:   Adding Treecapitator-1.12-at_0.9a.jar to the mod list
+[22:44:13] [main/DEBUG] [FML]: Examining for coremod candidacy Chisel-MC1.12.2-0.2.1.35.jar
+[22:44:13] [main/DEBUG] [FML]: Not found coremod data in Chisel-MC1.12.2-0.2.1.35.jar
+[22:44:13] [main/DEBUG] [FML]: Examining for coremod candidacy ChunkAnimator-MC1.12-1.2.jar
+[22:44:13] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ChunkAnimator-MC1.12-1.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:44:13] [main/DEBUG] [FML]: Instantiating coremod class LoadingPlugin
+[22:44:13] [main/WARN] [FML]: The coremod lumien.chunkanimator.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:44:13] [main/WARN] [FML]: The coremod LoadingPlugin (lumien.chunkanimator.asm.LoadingPlugin) is not signed!
+[22:44:13] [main/DEBUG] [FML]: Enqueued coremod LoadingPlugin
+[22:44:13] [main/DEBUG] [FML]: Examining for coremod candidacy CTM-MC1.12.2-0.3.3.22.jar
+[22:44:13] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-0.3.3.22.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:44:13] [main/DEBUG] [FML]: Instantiating coremod class CTMCorePlugin
+[22:44:13] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:44:13] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[22:44:13] [main/DEBUG] [FML]: Enqueued coremod CTMCorePlugin
+[22:44:13] [main/DEBUG] [FML]: Examining for coremod candidacy Decocraft-2.6.2_1.12.2.jar
+[22:44:13] [main/DEBUG] [FML]: Not found coremod data in Decocraft-2.6.2_1.12.2.jar
+[22:44:13] [main/DEBUG] [FML]: Examining for coremod candidacy ironchest-1.12.2-7.0.59.842.jar
+[22:44:13] [main/DEBUG] [FML]: Not found coremod data in ironchest-1.12.2-7.0.59.842.jar
+[22:44:13] [main/DEBUG] [FML]: Examining for coremod candidacy Mantle-1.12-1.3.3.49.jar
+[22:44:13] [main/DEBUG] [FML]: Not found coremod data in Mantle-1.12-1.3.3.49.jar
+[22:44:13] [main/DEBUG] [FML]: Examining for coremod candidacy PTRLib-1.0.4.jar
+[22:44:13] [main/DEBUG] [FML]: Not found coremod data in PTRLib-1.0.4.jar
+[22:44:13] [main/DEBUG] [FML]: Examining for coremod candidacy TConstruct-1.12.2-2.12.0.135.jar
+[22:44:13] [main/DEBUG] [FML]: Not found coremod data in TConstruct-1.12.2-2.12.0.135.jar
+[22:44:13] [main/DEBUG] [FML]: Examining for coremod candidacy Treecapitator-1.12-at_0.9a.jar
+[22:44:13] [main/DEBUG] [FML]: Not found coremod data in Treecapitator-1.12-at_0.9a.jar
+[22:44:13] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:44:13] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:44:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:44:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:44:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:44:13] [main/DEBUG] [FML]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[22:44:13] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[22:44:13] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[22:44:13] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[22:44:13] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[22:44:13] [main/DEBUG] [FML]: Injection complete
+[22:44:13] [main/DEBUG] [FML]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[22:44:13] [main/DEBUG] [FML]: Running coremod plugin FMLCorePlugin
+[22:44:14] [main/DEBUG] [FML]: Read 1140 binary patches
+[22:44:14] [main/DEBUG] [FML]: Loading deobfuscation resource /deobfuscation_data-1.12.2.lzma with 36083 records
+[22:44:14] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:44:14] [main/DEBUG] [FML]: Coremod plugin class FMLCorePlugin run successfully
+[22:44:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:44:14] [main/DEBUG] [FML]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[22:44:14] [main/DEBUG] [FML]: Injection complete
+[22:44:14] [main/DEBUG] [FML]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[22:44:14] [main/DEBUG] [FML]: Running coremod plugin FMLForgePlugin
+[22:44:14] [main/DEBUG] [FML]: Coremod plugin class FMLForgePlugin run successfully
+[22:44:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:44:14] [main/DEBUG] [FML]: Loaded 215 rules from AccessTransformer config file forge_at.cfg
+[22:44:14] [main/DEBUG] [FML]: Loaded 5 rules from AccessTransformer mod jar file .\mods\CTM-MC1.12.2-0.3.3.22.jar!META-INF/ctm_at.cfg
+
+[22:44:14] [main/DEBUG] [FML]: Loaded 1 rules from AccessTransformer mod jar file .\mods\Decocraft-2.6.2_1.12.2.jar!META-INF/decocraft_at.cfg
+
+[22:44:14] [main/DEBUG] [FML]: Loaded 8 rules from AccessTransformer mod jar file .\mods\Mantle-1.12-1.3.3.49.jar!META-INF/mantle_at.cfg
+
+[22:44:14] [main/DEBUG] [FML]: Loaded 39 rules from AccessTransformer mod jar file .\mods\TConstruct-1.12.2-2.12.0.135.jar!META-INF/tconstruct_at.cfg
+
+[22:44:14] [main/DEBUG] [FML]: Loaded 8 rules from AccessTransformer mod jar file .\mods\Chisel-MC1.12.2-0.2.1.35.jar!META-INF/chisel_at.cfg
+
+[22:44:14] [main/DEBUG] [FML]: Validating minecraft
+[22:44:15] [main/DEBUG] [FML]: Minecraft validated, launching...
+[22:44:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:44:15] [main/DEBUG] [FML]: Injecting coremod LoadingPlugin \{lumien.chunkanimator.asm.LoadingPlugin\} class transformers
+[22:44:15] [main/TRACE] [FML]: Registering transformer lumien.chunkanimator.asm.ClassTransformer
+[22:44:15] [main/DEBUG] [ChunkAnimatorCore]: Starting Class Transformation
+[22:44:15] [main/DEBUG] [FML]: Injection complete
+[22:44:15] [main/DEBUG] [FML]: Running coremod plugin for LoadingPlugin \{lumien.chunkanimator.asm.LoadingPlugin\}
+[22:44:15] [main/DEBUG] [FML]: Running coremod plugin LoadingPlugin
+[22:44:15] [main/DEBUG] [FML]: Coremod plugin class LoadingPlugin run successfully
+[22:44:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:44:15] [main/DEBUG] [FML]: Injecting coremod CTMCorePlugin \{team.chisel.ctm.client.asm.CTMCorePlugin\} class transformers
+[22:44:15] [main/TRACE] [FML]: Registering transformer team.chisel.ctm.client.asm.CTMTransformer
+[22:44:15] [main/DEBUG] [FML]: Injection complete
+[22:44:15] [main/DEBUG] [FML]: Running coremod plugin for CTMCorePlugin \{team.chisel.ctm.client.asm.CTMCorePlugin\}
+[22:44:15] [main/DEBUG] [FML]: Running coremod plugin CTMCorePlugin
+[22:44:15] [main/DEBUG] [FML]: Coremod plugin class CTMCorePlugin run successfully
+[22:44:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:44:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:44:15] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[22:44:15] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[22:44:15] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[22:44:18] [main/DEBUG] [FML]: Creating vanilla freeze snapshot
+[22:44:18] [main/DEBUG] [FML]: Vanilla freeze snapshot created
+[22:44:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[22:44:18] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2838 Initialized
+[22:44:18] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:44:18] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[22:44:18] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[22:44:18] [Server thread/DEBUG] [FML]: No config directory found, creating one: C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\server\config
+[22:44:18] [Server thread/INFO] [FML]: Config directory created successfully
+[22:44:18] [Server thread/DEBUG] [FML]: File C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\server\config\injectedDependencies.json not found. No dependencies injected
+[22:44:18] [Server thread/DEBUG] [FML]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
+[22:44:18] [Server thread/DEBUG] [FML]: Attempting to load mods contained in the minecraft jar file and associated classes
+[22:44:18] [Server thread/DEBUG] [FML]: Found a minecraft related file at C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\server\forge-1.12.2-14.23.5.2838-universal.jar, examining for mod candidates
+[22:44:19] [Server thread/TRACE] [FML]: Skipping known library file C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\server\.\mods\ChunkAnimator-MC1.12-1.2.jar
+[22:44:19] [Server thread/TRACE] [FML]: Skipping known library file C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\server\.\mods\CTM-MC1.12.2-0.3.3.22.jar
+[22:44:19] [Server thread/DEBUG] [FML]: Minecraft jar mods loaded successfully
+[22:44:19] [Server thread/INFO] [FML]: Searching C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\server\.\mods for mods
+[22:44:19] [Server thread/DEBUG] [FML]:   Adding Chisel-MC1.12.2-0.2.1.35.jar to the mod list
+[22:44:19] [Server thread/DEBUG] [FML]:   Adding ChunkAnimator-MC1.12-1.2.jar to the mod list
+[22:44:19] [Server thread/DEBUG] [FML]:   Adding CTM-MC1.12.2-0.3.3.22.jar to the mod list
+[22:44:19] [Server thread/DEBUG] [FML]:   Adding Decocraft-2.6.2_1.12.2.jar to the mod list
+[22:44:19] [Server thread/DEBUG] [FML]:   Adding ironchest-1.12.2-7.0.59.842.jar to the mod list
+[22:44:19] [Server thread/DEBUG] [FML]:   Adding Mantle-1.12-1.3.3.49.jar to the mod list
+[22:44:19] [Server thread/DEBUG] [FML]:   Adding PTRLib-1.0.4.jar to the mod list
+[22:44:19] [Server thread/DEBUG] [FML]:   Adding TConstruct-1.12.2-2.12.0.135.jar to the mod list
+[22:44:19] [Server thread/DEBUG] [FML]:   Adding Treecapitator-1.12-at_0.9a.jar to the mod list
+[22:44:19] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file Chisel-MC1.12.2-0.2.1.35.jar
+[22:44:19] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file ChunkAnimator-MC1.12-1.2.jar
+[22:44:19] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file CTM-MC1.12.2-0.3.3.22.jar
+[22:44:19] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file Decocraft-2.6.2_1.12.2.jar
+[22:44:19] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file ironchest-1.12.2-7.0.59.842.jar
+[22:44:19] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file Mantle-1.12-1.3.3.49.jar
+[22:44:19] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file PTRLib-1.0.4.jar
+[22:44:19] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file TConstruct-1.12.2-2.12.0.135.jar
+[22:44:19] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file Treecapitator-1.12-at_0.9a.jar
+[22:44:19] [Server thread/DEBUG] [FML]: Examining file forge-1.12.2-14.23.5.2838-universal.jar for potential mods
+[22:44:19] [Server thread/DEBUG] [FML]: The mod container forge-1.12.2-14.23.5.2838-universal.jar appears to be missing an mcmod.info file
+[22:44:19] [Server thread/DEBUG] [FML]: Examining file Chisel-MC1.12.2-0.2.1.35.jar for potential mods
+[22:44:19] [Server thread/TRACE] [FML]: Located mcmod.info file in file Chisel-MC1.12.2-0.2.1.35.jar
+[22:44:19] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (team.chisel.Chisel) - loading
+[22:44:19] [Server thread/TRACE] [FML]: Parsed dependency info for chisel: Requirements: [forge@[14.23.0.2501,)] After:[forge@[14.23.0.2501,)] Before:[]
+[22:44:19] [Server thread/DEBUG] [FML]: Examining file ChunkAnimator-MC1.12-1.2.jar for potential mods
+[22:44:19] [Server thread/TRACE] [FML]: Located mcmod.info file in file ChunkAnimator-MC1.12-1.2.jar
+[22:44:19] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (lumien.chunkanimator.ChunkAnimator) - loading
+[22:44:19] [Server thread/INFO] [FML]: Disabling mod chunkanimator it is client side only.
+[22:44:19] [Server thread/DEBUG] [FML]: Skipping mod lumien.chunkanimator.ChunkAnimator, container opted to not load.
+[22:44:19] [Server thread/DEBUG] [FML]: Examining file CTM-MC1.12.2-0.3.3.22.jar for potential mods
+[22:44:19] [Server thread/TRACE] [FML]: Located mcmod.info file in file CTM-MC1.12.2-0.3.3.22.jar
+[22:44:19] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (team.chisel.ctm.CTM) - loading
+[22:44:19] [Server thread/INFO] [FML]: Disabling mod ctm it is client side only.
+[22:44:19] [Server thread/DEBUG] [FML]: Skipping mod team.chisel.ctm.CTM, container opted to not load.
+[22:44:19] [Server thread/DEBUG] [FML]: Examining file Decocraft-2.6.2_1.12.2.jar for potential mods
+[22:44:19] [Server thread/TRACE] [FML]: Located mcmod.info file in file Decocraft-2.6.2_1.12.2.jar
+[22:44:19] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.mia.props.Props) - loading
+[22:44:19] [Server thread/TRACE] [FML]: Parsed dependency info for props: Requirements: [] After:[ptrmodellib] Before:[]
+[22:44:19] [Server thread/DEBUG] [FML]: Examining file ironchest-1.12.2-7.0.59.842.jar for potential mods
+[22:44:19] [Server thread/TRACE] [FML]: Located mcmod.info file in file ironchest-1.12.2-7.0.59.842.jar
+[22:44:19] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (cpw.mods.ironchest.IronChest) - loading
+[22:44:19] [Server thread/TRACE] [FML]: Parsed dependency info for ironchest: Requirements: [forge@[14.21.0.2359,)] After:[forge@[14.21.0.2359,)] Before:[]
+[22:44:19] [Server thread/DEBUG] [FML]: Attempting to load the file version.properties from ironchest-1.12.2-7.0.59.842.jar to locate a version number for mod ironchest
+[22:44:19] [Server thread/DEBUG] [FML]: Found version null for mod ironchest in version.properties, using
+[22:44:19] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.59.842
+[22:44:19] [Server thread/DEBUG] [FML]: Examining file Mantle-1.12-1.3.3.49.jar for potential mods
+[22:44:19] [Server thread/TRACE] [FML]: Located mcmod.info file in file Mantle-1.12-1.3.3.49.jar
+[22:44:19] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (slimeknights.mantle.Mantle) - loading
+[22:44:19] [Server thread/TRACE] [FML]: Parsed dependency info for mantle: Requirements: [forge@[14.21.1.2387,)] After:[forge@[14.21.1.2387,)] Before:[]
+[22:44:19] [Server thread/DEBUG] [FML]: Examining file PTRLib-1.0.4.jar for potential mods
+[22:44:19] [Server thread/TRACE] [FML]: Located mcmod.info file in file PTRLib-1.0.4.jar
+[22:44:19] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.mia.craftstudio.minecraft.forge.CSLibMod) - loading
+[22:44:19] [Server thread/INFO] [FML]: Disabling mod ptrmodellib it is client side only.
+[22:44:19] [Server thread/DEBUG] [FML]: Skipping mod com.mia.craftstudio.minecraft.forge.CSLibMod, container opted to not load.
+[22:44:19] [Server thread/DEBUG] [FML]: Examining file TConstruct-1.12.2-2.12.0.135.jar for potential mods
+[22:44:19] [Server thread/TRACE] [FML]: Located mcmod.info file in file TConstruct-1.12.2-2.12.0.135.jar
+[22:44:19] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (slimeknights.tconstruct.TConstruct) - loading
+[22:44:19] [Server thread/TRACE] [FML]: Parsed dependency info for tconstruct: Requirements: [mantle@[1.12-1.3.3.49,), forge@[14.23.1.2577,)] After:[forge@[14.23.1.2577,), mantle@[1.12-1.3.3.49,), jei@[4.8,), chisel] Before:[taiga@(1.3.0,)]
+[22:44:19] [Server thread/DEBUG] [FML]: Examining file Treecapitator-1.12-at_0.9a.jar for potential mods
+[22:44:19] [Server thread/TRACE] [FML]: Located mcmod.info file in file Treecapitator-1.12-at_0.9a.jar
+[22:44:19] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (bspkrs.bspkrscore.fml.bspkrsCoreMod) - loading
+[22:44:19] [Server thread/TRACE] [FML]: Parsed dependency info for bspkrscore: Requirements: [] After:[] Before:[]
+[22:44:19] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (bspkrs.treecapitator.TreecapitatorMod) - loading
+[22:44:19] [Server thread/TRACE] [FML]: Using mcmod dependency info for treecapitator: [] [] []
+[22:44:19] [Server thread/INFO] [FML]: Forge Mod Loader has identified 11 mods to load
+[22:44:19] [Server thread/DEBUG] [FML]: Found API team.chisel.api (owned by chisel providing Chisel-API) embedded in chisel
+[22:44:19] [Server thread/DEBUG] [FML]: Found API team.chisel.api.carving (owned by Chisel providing ChiselAPI|Carving) embedded in chisel
+[22:44:19] [Server thread/DEBUG] [FML]: Creating API container dummy for API ctm-api-models: owner: ctm, dependents: []
+[22:44:19] [Server thread/DEBUG] [FML]: Creating API container dummy for API ctm-api-textures: owner: ctm, dependents: []
+[22:44:19] [Server thread/DEBUG] [FML]: Creating API container dummy for API ChiselAPI|Carving: owner: Chisel, dependents: [chisel]
+[22:44:19] [Server thread/DEBUG] [FML]: Creating API container dummy for API ctm-api-events: owner: ctm, dependents: []
+[22:44:19] [Server thread/DEBUG] [FML]: Creating API container dummy for API ctm-api: owner: ctm, dependents: []
+[22:44:19] [Server thread/DEBUG] [FML]: Creating API container dummy for API ctm-api-utils: owner: ctm, dependents: []
+[22:44:19] [Server thread/DEBUG] [FML]: Creating API container dummy for API CSLib|API: owner: ptrmodellib, dependents: []
+[22:44:19] [Server thread/DEBUG] [FML]: Creating API container dummy for API Chisel-API: owner: chisel, dependents: []
+[22:44:19] [Server thread/TRACE] [FML]: Received a system property request ''
+[22:44:19] [Server thread/TRACE] [FML]: System property request managing the state of 0 mods
+[22:44:19] [Server thread/DEBUG] [FML]: After merging, found state information for 0 mods
+[22:44:19] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[22:44:19] [Server thread/DEBUG] [FML]: Enabling mod chisel
+[22:44:19] [Server thread/DEBUG] [FML]: Enabling mod props
+[22:44:19] [Server thread/DEBUG] [FML]: Enabling mod ironchest
+[22:44:19] [Server thread/DEBUG] [FML]: Enabling mod mantle
+[22:44:19] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
+[22:44:19] [Server thread/DEBUG] [FML]: Enabling mod tconstruct
+[22:44:19] [Server thread/DEBUG] [FML]: Enabling mod bspkrscore
+[22:44:19] [Server thread/DEBUG] [FML]: Enabling mod treecapitator
+[22:44:19] [Server thread/TRACE] [FML]: Verifying mod requirements are satisfied
+[22:44:19] [Server thread/TRACE] [FML]: All mod requirements are satisfied
+[22:44:19] [Server thread/TRACE] [FML]: Sorting mods into an ordered list
+[22:44:19] [Server thread/TRACE] [FML]: Mod sorting completed successfully
+[22:44:19] [Server thread/DEBUG] [FML]: Mod sorting data
+[22:44:19] [Server thread/DEBUG] [FML]: 	ChiselAPI|Carving(API: ChiselAPI|Carving:0.0.1): Chisel-MC1.12.2-0.2.1.35.jar ()
+[22:44:19] [Server thread/DEBUG] [FML]: 	chisel(Chisel:MC1.12.2-0.2.1.35): Chisel-MC1.12.2-0.2.1.35.jar (required-after:forge@[14.23.0.2501,);required-after-client:ctm@[MC1.12-0.2.3.8,))
+[22:44:19] [Server thread/DEBUG] [FML]: 	props(Decocraft:2.6.2): Decocraft-2.6.2_1.12.2.jar (required-after-client:ptrmodellib@[1.0.3,);after:ptrmodellib)
+[22:44:19] [Server thread/DEBUG] [FML]: 	ironchest(Iron Chest:1.12.2-7.0.59.842): ironchest-1.12.2-7.0.59.842.jar (required-after:forge@[14.21.0.2359,))
+[22:44:19] [Server thread/DEBUG] [FML]: 	mantle(Mantle:1.12-1.3.3.49): Mantle-1.12-1.3.3.49.jar (required-after:forge@[14.21.1.2387,))
+[22:44:19] [Server thread/DEBUG] [FML]: 	tconstruct(Tinkers' Construct:1.12.2-2.12.0.135): TConstruct-1.12.2-2.12.0.135.jar (required-after:forge@[14.23.1.2577,);required-after:mantle@[1.12-1.3.3.49,);after:jei@[4.8,);before:taiga@(1.3.0,);after:chisel)
+[22:44:19] [Server thread/DEBUG] [FML]: 	bspkrscore(bspkrsCore:at_0.9): Treecapitator-1.12-at_0.9a.jar ()
+[22:44:19] [Server thread/DEBUG] [FML]: 	treecapitator(Treecapitator:at_0.9): Treecapitator-1.12-at_0.9a.jar ()
+[22:44:19] [Server thread/DEBUG] [FML]: 	ctm-api-models(API: ctm-api-models:0.1.0): CTM-MC1.12.2-0.3.3.22.jar ()
+[22:44:19] [Server thread/DEBUG] [FML]: 	ctm-api-textures(API: ctm-api-textures:0.1.0): CTM-MC1.12.2-0.3.3.22.jar ()
+[22:44:19] [Server thread/DEBUG] [FML]: 	ctm-api-events(API: ctm-api-events:0.1.0): CTM-MC1.12.2-0.3.3.22.jar ()
+[22:44:19] [Server thread/DEBUG] [FML]: 	ctm-api(API: ctm-api:0.1.0): CTM-MC1.12.2-0.3.3.22.jar ()
+[22:44:19] [Server thread/DEBUG] [FML]: 	ctm-api-utils(API: ctm-api-utils:0.1.0): CTM-MC1.12.2-0.3.3.22.jar ()
+[22:44:19] [Server thread/DEBUG] [FML]: 	CSLib|API(API: CSLib|API:1.0.1): PTRLib-1.0.4.jar ()
+[22:44:19] [Server thread/DEBUG] [FML]: 	Chisel-API(API: Chisel-API:0.0.1): Chisel-MC1.12.2-0.2.1.35.jar ()
+[22:44:19] [Server thread/INFO] [FML]: FML has found a non-mod file ChunkAnimator-MC1.12-1.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[22:44:19] [Server thread/INFO] [FML]: FML has found a non-mod file CTM-MC1.12.2-0.3.3.22.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[22:44:19] [Server thread/INFO] [FML]: FML has found a non-mod file PTRLib-1.0.4.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[22:44:19] [Server thread/DEBUG] [FML]: Loading @Config anotation data
+[22:44:19] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod minecraft
+[22:44:19] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod minecraft
+[22:44:19] [Server thread/DEBUG] [FML]: Bar Step: Construction - Minecraft took 0.002s
+[22:44:19] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod mcp
+[22:44:19] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod mcp
+[22:44:19] [Server thread/DEBUG] [FML]: Bar Step: Construction - Minecraft Coder Pack took 0.001s
+[22:44:19] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod FML
+[22:44:20] [Server thread/TRACE] [FML]: Mod FML is using network checker : Invoking method checkModLists
+[22:44:20] [Server thread/TRACE] [FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[22:44:20] [Server thread/TRACE] [FML]: The mod FML accepts its own version (8.0.99.99)
+[22:44:20] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, chisel, props, ironchest, mantle, tconstruct, bspkrscore, treecapitator] at CLIENT
+[22:44:20] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, chisel, props, ironchest, mantle, tconstruct, bspkrscore, treecapitator] at SERVER
+[22:44:20] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod FML
+[22:44:20] [Server thread/DEBUG] [FML]: Bar Step: Construction - Forge Mod Loader took 0.670s
+[22:44:20] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod forge
+[22:44:20] [Server thread/DEBUG] [forge]: Loading Vanilla annotations: sun.net.www.protocol.jar.JarURLConnection$JarURLInputStream@322ffbf5
+[22:44:20] [Server thread/DEBUG] [forge]: Preloading CrashReport Classes
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/Minecraft$10
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/Minecraft$11
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/Minecraft$12
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/Minecraft$13
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/Minecraft$14
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/Minecraft$2
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/Minecraft$3
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/Minecraft$4
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/Minecraft$5
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/Minecraft$6
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/Minecraft$7
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/Minecraft$8
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/Minecraft$9
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/multiplayer/WorldClient$1
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/multiplayer/WorldClient$2
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/multiplayer/WorldClient$3
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/multiplayer/WorldClient$4
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/particle/ParticleManager$1
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/particle/ParticleManager$2
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/particle/ParticleManager$3
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/particle/ParticleManager$4
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/renderer/EntityRenderer$2
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/renderer/EntityRenderer$3
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/renderer/EntityRenderer$4
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/renderer/RenderGlobal$1
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/renderer/RenderItem$1
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/renderer/RenderItem$2
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/renderer/RenderItem$3
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/renderer/RenderItem$4
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/renderer/texture/TextureAtlasSprite$1
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/renderer/texture/TextureManager$1
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/renderer/texture/TextureMap$1
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/renderer/texture/TextureMap$2
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/client/renderer/texture/TextureMap$3
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/crash/CrashReport$1
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/crash/CrashReport$2
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/crash/CrashReport$3
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/crash/CrashReport$4
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/crash/CrashReport$5
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/crash/CrashReport$6
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/crash/CrashReport$7
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/crash/CrashReportCategory$1
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/crash/CrashReportCategory$2
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/crash/CrashReportCategory$3
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/crash/CrashReportCategory$4
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/crash/CrashReportCategory$5
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/entity/Entity$2
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/entity/Entity$3
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/entity/Entity$4
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/entity/Entity$5
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/entity/EntityTracker$1
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/entity/player/InventoryPlayer$1
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/nbt/NBTTagCompound$1
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/nbt/NBTTagCompound$2
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/network/NetHandlerPlayServer$3
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/network/NetworkSystem$6
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/server/MinecraftServer$2
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/server/MinecraftServer$3
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/server/dedicated/DedicatedServer$3
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/server/dedicated/DedicatedServer$4
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/server/integrated/IntegratedServer$1
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/server/integrated/IntegratedServer$2
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/tileentity/CommandBlockBaseLogic$1
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/tileentity/CommandBlockBaseLogic$2
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/tileentity/TileEntity$1
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/tileentity/TileEntity$2
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/tileentity/TileEntity$3
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/world/World$1
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/world/World$2
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/world/World$3
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/world/World$4
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/world/World$5
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/world/chunk/Chunk$1
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/world/gen/structure/MapGenStructure$1
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/world/gen/structure/MapGenStructure$2
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/world/gen/structure/MapGenStructure$3
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/world/storage/WorldInfo$10
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/world/storage/WorldInfo$2
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/world/storage/WorldInfo$3
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/world/storage/WorldInfo$4
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/world/storage/WorldInfo$5
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/world/storage/WorldInfo$6
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/world/storage/WorldInfo$7
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/world/storage/WorldInfo$8
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraft/world/storage/WorldInfo$9
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Alignment
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Column
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Row
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraftforge/fml/client/SplashProgress$1
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraftforge/fml/client/SplashProgress$1
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraftforge/fml/common/FMLCommonHandler$1
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraftforge/fml/common/FMLCommonHandler$1
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraftforge/fml/common/ICrashCallable
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraftforge/fml/common/Loader$1
+[22:44:20] [Server thread/DEBUG] [forge]: 	net/minecraftforge/fml/common/Loader$1
+[22:44:20] [Server thread/TRACE] [FML]: Mod forge is using network checker : No network checking performed
+[22:44:20] [Server thread/TRACE] [FML]: Testing mod forge to verify it accepts its own version in a remote connection
+[22:44:20] [Server thread/TRACE] [FML]: The mod forge accepts its own version (14.23.5.2838)
+[22:44:20] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into forge for type INSTANCE
+[22:44:20] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod forge
+[22:44:20] [Server thread/DEBUG] [FML]: Bar Step: Construction - Minecraft Forge took 0.095s
+[22:44:20] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod chisel
+[22:44:20] [Server thread/TRACE] [FML]: Mod chisel is using network checker : Accepting version MC1.12.2-0.2.1.35
+[22:44:20] [Server thread/TRACE] [FML]: Testing mod chisel to verify it accepts its own version in a remote connection
+[22:44:20] [Server thread/TRACE] [FML]: The mod chisel accepts its own version (MC1.12.2-0.2.1.35)
+[22:44:20] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into chisel
+[22:44:20] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for chisel
+[22:44:20] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for team.chisel.Features for mod chisel
+[22:44:20] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class team.chisel.Features
+[22:44:20] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into chisel for type INSTANCE
+[22:44:20] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod chisel
+[22:44:20] [Server thread/DEBUG] [FML]: Bar Step: Construction - Chisel took 0.164s
+[22:44:20] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod props
+[22:44:20] [Server thread/TRACE] [FML]: Mod props is using network checker : Accepting version 2.6.2
+[22:44:20] [Server thread/TRACE] [FML]: Testing mod props to verify it accepts its own version in a remote connection
+[22:44:20] [Server thread/TRACE] [FML]: The mod props accepts its own version (2.6.2)
+[22:44:20] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into props
+[22:44:20] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for props
+[22:44:20] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into props for type INSTANCE
+[22:44:20] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod props
+[22:44:20] [Server thread/DEBUG] [FML]: Bar Step: Construction - Decocraft took 0.013s
+[22:44:20] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod ironchest
+[22:44:20] [Server thread/TRACE] [FML]: Mod ironchest is using network checker : Accepting version 1.12.2-7.0.59.842
+[22:44:20] [Server thread/TRACE] [FML]: Testing mod ironchest to verify it accepts its own version in a remote connection
+[22:44:20] [Server thread/TRACE] [FML]: The mod ironchest accepts its own version (1.12.2-7.0.59.842)
+[22:44:20] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into ironchest
+[22:44:20] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for ironchest
+[22:44:20] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for cpw.mods.ironchest.common.core.IronChestBlocks$Registration for mod ironchest
+[22:44:20] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class cpw.mods.ironchest.common.core.IronChestBlocks$Registration
+[22:44:20] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for cpw.mods.ironchest.common.core.IronChestItems$Registration for mod ironchest
+[22:44:20] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class cpw.mods.ironchest.common.core.IronChestItems$Registration
+[22:44:20] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into ironchest for type INSTANCE
+[22:44:20] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod ironchest
+[22:44:20] [Server thread/DEBUG] [FML]: Bar Step: Construction - Iron Chest took 0.018s
+[22:44:20] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod mantle
+[22:44:20] [Server thread/DEBUG] [forge]: Preloading CrashReport Classes
+[22:44:20] [Server thread/DEBUG] [forge]: 	slimeknights/mantle/pulsar/internal/CrashHandler
+[22:44:20] [Server thread/TRACE] [FML]: Mod mantle is using network checker : Accepting version 1.12-1.3.3.49
+[22:44:20] [Server thread/TRACE] [FML]: Testing mod mantle to verify it accepts its own version in a remote connection
+[22:44:20] [Server thread/TRACE] [FML]: The mod mantle accepts its own version (1.12-1.3.3.49)
+[22:44:20] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into mantle
+[22:44:20] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for mantle
+[22:44:20] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into mantle for type INSTANCE
+[22:44:20] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod mantle
+[22:44:20] [Server thread/DEBUG] [FML]: Bar Step: Construction - Mantle took 0.005s
+[22:44:20] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod tconstruct
+[22:44:20] [Server thread/DEBUG] [Pulsar-tconstruct]: Attaching [PulseManager[tconstruct]] to event bus for container [FMLMod:tconstruct{1.12.2-2.12.0.135}]
+[22:44:21] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselsandbitsIntegration; missing dependency: chiselsandbits
+[22:44:21] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
+[22:44:21] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse wailaIntegration; missing dependency: waila
+[22:44:21] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse theoneprobeIntegration; missing dependency: theoneprobe
+[22:44:21] [Server thread/INFO] [tconstruct]: Preparing to take over the world
+[22:44:21] [Server thread/TRACE] [FML]: Mod tconstruct is using network checker : Invoking method matchModVersions
+[22:44:21] [Server thread/TRACE] [FML]: Testing mod tconstruct to verify it accepts its own version in a remote connection
+[22:44:21] [Server thread/TRACE] [FML]: The mod tconstruct accepts its own version (1.12.2-2.12.0.135)
+[22:44:21] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into tconstruct
+[22:44:21] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for tconstruct
+[22:44:21] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for slimeknights.tconstruct.tools.common.inventory.ContainerCraftingStation for mod tconstruct
+[22:44:21] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class slimeknights.tconstruct.tools.common.inventory.ContainerCraftingStation
+[22:44:21] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for slimeknights.tconstruct.common.Sounds for mod tconstruct
+[22:44:21] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class slimeknights.tconstruct.common.Sounds
+[22:44:21] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into tconstruct for type INSTANCE
+[22:44:21] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod tconstruct
+[22:44:21] [Server thread/DEBUG] [FML]: Bar Step: Construction - Tinkers' Construct took 0.283s
+[22:44:21] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod bspkrscore
+[22:44:21] [Server thread/TRACE] [FML]: Mod bspkrscore is using network checker : Accepting version at_0.9
+[22:44:21] [Server thread/TRACE] [FML]: Testing mod bspkrscore to verify it accepts its own version in a remote connection
+[22:44:21] [Server thread/TRACE] [FML]: The mod bspkrscore accepts its own version (at_0.9)
+[22:44:21] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into bspkrscore
+[22:44:21] [Server thread/DEBUG] [FML]: Skipping proxy injection for bspkrs.treecapitator.TreecapitatorMod.proxy since it is not for mod bspkrscore
+[22:44:21] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for bspkrscore
+[22:44:21] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into bspkrscore for type INSTANCE
+[22:44:21] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for bspkrs.treecapitator.TreecapitatorMod.instance since it is not for mod bspkrscore
+[22:44:21] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Metadata injection for bspkrs.treecapitator.TreecapitatorMod.metadata since it is not for mod bspkrscore
+[22:44:21] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod bspkrscore
+[22:44:21] [Server thread/DEBUG] [FML]: Bar Step: Construction - bspkrsCore took 0.007s
+[22:44:21] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod treecapitator
+[22:44:21] [Server thread/TRACE] [FML]: Mod treecapitator is using network checker : Accepting version at_0.9
+[22:44:21] [Server thread/TRACE] [FML]: Testing mod treecapitator to verify it accepts its own version in a remote connection
+[22:44:21] [Server thread/TRACE] [FML]: The mod treecapitator accepts its own version (at_0.9)
+[22:44:21] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into treecapitator
+[22:44:21] [Server thread/DEBUG] [FML]: Skipping proxy injection for bspkrs.bspkrscore.fml.bspkrsCoreMod.proxy since it is not for mod treecapitator
+[22:44:21] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for treecapitator
+[22:44:21] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into treecapitator for type INSTANCE
+[22:44:21] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Instance injection for bspkrs.bspkrscore.fml.bspkrsCoreMod.instance since it is not for mod treecapitator
+[22:44:21] [Server thread/DEBUG] [FML]: Skipping @net.minecraftforge.fml.common.Mod$Metadata injection for bspkrs.bspkrscore.fml.bspkrsCoreMod.metadata since it is not for mod treecapitator
+[22:44:21] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod treecapitator
+[22:44:21] [Server thread/DEBUG] [FML]: Bar Step: Construction - Treecapitator took 0.007s
+[22:44:21] [Server thread/DEBUG] [FML]: Bar Finished: Construction took 1.265s
+[22:44:21] [Server thread/DEBUG] [FML]: Mod signature data
+[22:44:21] [Server thread/DEBUG] [FML]:  	Valid Signatures:
+[22:44:21] [Server thread/DEBUG] [FML]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) FML	(Forge Mod Loader	8.0.99.99)	forge-1.12.2-14.23.5.2838-universal.jar
+[22:44:21] [Server thread/DEBUG] [FML]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) forge	(Minecraft Forge	14.23.5.2838)	forge-1.12.2-14.23.5.2838-universal.jar
+[22:44:21] [Server thread/DEBUG] [FML]:  	Missing Signatures:
+[22:44:21] [Server thread/DEBUG] [FML]: 		minecraft	(Minecraft	1.12.2)	minecraft.jar
+[22:44:21] [Server thread/DEBUG] [FML]: 		mcp	(Minecraft Coder Pack	9.42)	minecraft.jar
+[22:44:21] [Server thread/DEBUG] [FML]: 		chisel	(Chisel	MC1.12.2-0.2.1.35)	Chisel-MC1.12.2-0.2.1.35.jar
+[22:44:21] [Server thread/DEBUG] [FML]: 		props	(Decocraft	2.6.2)	Decocraft-2.6.2_1.12.2.jar
+[22:44:21] [Server thread/DEBUG] [FML]: 		ironchest	(Iron Chest	1.12.2-7.0.59.842)	ironchest-1.12.2-7.0.59.842.jar
+[22:44:21] [Server thread/DEBUG] [FML]: 		mantle	(Mantle	1.12-1.3.3.49)	Mantle-1.12-1.3.3.49.jar
+[22:44:21] [Server thread/DEBUG] [FML]: 		tconstruct	(Tinkers' Construct	1.12.2-2.12.0.135)	TConstruct-1.12.2-2.12.0.135.jar
+[22:44:21] [Server thread/DEBUG] [FML]: 		bspkrscore	(bspkrsCore	at_0.9)	Treecapitator-1.12-at_0.9a.jar
+[22:44:21] [Server thread/DEBUG] [FML]: 		treecapitator	(Treecapitator	at_0.9)	Treecapitator-1.12-at_0.9a.jar
+[22:44:21] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[22:44:21] [Server thread/INFO] [FML]: Found 1272 ObjectHolder annotations
+[22:44:21] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[22:44:21] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[22:44:21] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod minecraft
+[22:44:21] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod minecraft
+[22:44:21] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft took 0.000s
+[22:44:21] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod mcp
+[22:44:21] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod mcp
+[22:44:21] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.000s
+[22:44:21] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod FML
+[22:44:21] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod FML
+[22:44:21] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Forge Mod Loader took 0.000s
+[22:44:21] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod forge
+[22:44:21] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[22:44:21] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod forge
+[22:44:21] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft Forge took 0.050s
+[22:44:21] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod chisel
+[22:44:21] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[22:44:21] [Server thread/INFO] [FML]: Applying holder lookups
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:chisel_iron for public static team.chisel.common.item.ItemChisel team.chisel.common.init.ChiselItems.chisel_iron. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:chisel_diamond for public static team.chisel.common.item.ItemChisel team.chisel.common.init.ChiselItems.chisel_diamond. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:chisel_hitech for public static team.chisel.common.item.ItemChisel team.chisel.common.init.ChiselItems.chisel_hitech. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:offsettool for public static team.chisel.common.item.ItemOffsetTool team.chisel.common.init.ChiselItems.offsettool. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:antiblock for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.antiblock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:auto_chisel for public static team.chisel.common.block.BlockAutoChisel team.chisel.common.init.ChiselBlocks.auto_chisel. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:basalt for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.basalt. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:basalt1 for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.basalt1. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:basalt2 for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.basalt2. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:block_charcoal2 for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.block_charcoal2. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:bloodmagic for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.bloodmagic. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:bookshelf_spruce for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.bookshelf_spruce. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:bookshelf_birch for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.bookshelf_birch. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:bookshelf_jungle for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.bookshelf_jungle. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:bookshelf_acacia for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.bookshelf_acacia. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:bookshelf_darkoak for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.bookshelf_darkoak. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:brownstone for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.brownstone. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:carpet for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.carpet. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:cloud for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.cloud. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete_white for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete_white. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete_orange for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete_orange. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete_lightblue for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete_lightblue. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete_magenta for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete_magenta. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete_lime for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete_lime. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete_yellow for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete_yellow. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete_pink for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete_pink. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete_gray for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete_gray. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete_lightgray for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete_lightgray. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete_blue for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete_blue. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete_cyan for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete_cyan. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete_purple for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete_purple. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete_green for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete_green. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete_brown for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete_brown. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete_red for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete_red. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete_black for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete_black. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete_powder for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete_powder. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:dirt for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.dirt. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:factory for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.factory. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:futura for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.futura. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:glowstone for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.glowstone. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:glowstone1 for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.glowstone1. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:glowstone2 for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.glowstone2. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:laboratory for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.laboratory. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:lavastone for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.lavastone. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:lavastone1 for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.lavastone1. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:lavastone2 for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.lavastone2. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:limestone for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.limestone. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:limestone2 for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.limestone2. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:marble for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.marble. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:marble2 for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.marble2. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:netherrack for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.netherrack. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:paper for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.paper. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:temple for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.temple. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:tyrian for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.tyrian. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:valentines for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.valentines. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:voidstone for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.voidstone. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:waterstone for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.waterstone. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:waterstone1 for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.waterstone1. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:waterstone2 for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.waterstone2. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup chisel:waterstoneextra for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.waterstoneextra. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_yellow for public static cpw.mods.ironchest.common.blocks.shulker.BlockIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxYellowBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_pink for public static cpw.mods.ironchest.common.blocks.shulker.BlockIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxPinkBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_gray for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxGrayItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_blue for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxBlueItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_green for public static cpw.mods.ironchest.common.blocks.shulker.BlockIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxGreenBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_red for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxRedItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_light_blue for public static cpw.mods.ironchest.common.blocks.shulker.BlockIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxLightBlueBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_white for public static cpw.mods.ironchest.common.blocks.shulker.BlockIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxWhiteBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_blue for public static cpw.mods.ironchest.common.blocks.shulker.BlockIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxBlueBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_yellow for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxYellowItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_white for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxWhiteItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_cyan for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxCyanItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_magenta for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxMagentaItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_lime for public static cpw.mods.ironchest.common.blocks.shulker.BlockIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxLimeBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_lime for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxLimeItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_orange for public static cpw.mods.ironchest.common.blocks.shulker.BlockIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxOrangeBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_purple for public static cpw.mods.ironchest.common.blocks.shulker.BlockIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxPurpleBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_black for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxBlackItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_chest for public static cpw.mods.ironchest.common.blocks.chest.BlockIronChest cpw.mods.ironchest.common.core.IronChestBlocks.ironChestBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_purple for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxPurpleItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_pink for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxPinkItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_green for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxGreenItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_brown for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxBrownItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_cyan for public static cpw.mods.ironchest.common.blocks.shulker.BlockIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxCyanBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_orange for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxOrangeItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_light_blue for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxLightBlueItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_silver for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxSilverItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_red for public static cpw.mods.ironchest.common.blocks.shulker.BlockIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxRedBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_chest for public static net.minecraft.item.Item cpw.mods.ironchest.common.core.IronChestBlocks.ironChestItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_gray for public static cpw.mods.ironchest.common.blocks.shulker.BlockIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxGrayBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_silver for public static cpw.mods.ironchest.common.blocks.shulker.BlockIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxSilverBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_brown for public static cpw.mods.ironchest.common.blocks.shulker.BlockIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxBrownBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_black for public static cpw.mods.ironchest.common.blocks.shulker.BlockIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxBlackBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_magenta for public static cpw.mods.ironchest.common.blocks.shulker.BlockIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxMagentaBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:21] [Server thread/INFO] [FML]: Holder lookups applied
+[22:44:21] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod chisel
+[22:44:21] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Chisel took 0.037s
+[22:44:21] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod props
+[22:44:21] [Server thread/TRACE] [FML]: Automatically registered mod props entity FakeChairEntity as props:chair
+[22:44:21] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Original locale was en_GB, switching to Locale.US
+[22:44:21] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Locale is now en_US
+[22:44:21] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Locale was restored to en_GB
+[22:44:21] [Forge Version Check/DEBUG] [forge.VersionCheck]: [forge] Received version check data:
+{
+  "homepage": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/",
+  "promos": {
+    "1.1-latest": "1.3.2.6",
+    "1.10-latest": "12.18.0.2000",
+    "1.10.2-latest": "12.18.3.2511",
+    "1.10.2-recommended": "12.18.3.2185",
+    "1.11-latest": "13.19.1.2199",
+    "1.11-recommended": "13.19.1.2189",
+    "1.11.2-latest": "13.20.1.2588",
+    "1.11.2-recommended": "13.20.1.2386",
+    "1.12-latest": "14.21.1.2443",
+    "1.12-recommended": "14.21.1.2387",
+    "1.12.1-latest": "14.22.1.2485",
+    "1.12.1-recommended": "14.22.1.2478",
+    "1.12.2-latest": "14.23.5.2838",
+    "1.12.2-recommended": "14.23.5.2768",
+    "1.13.2-latest": "25.0.209",
+    "1.5.2-latest": "7.8.1.738",
+    "1.5.2-recommended": "7.8.1.737",
+    "1.6.1-latest": "8.9.0.775",
+    "1.6.2-latest": "9.10.1.871",
+    "1.6.2-recommended": "9.10.1.871",
+    "1.6.3-latest": "9.11.0.878",
+    "1.6.4-latest": "9.11.1.1345",
+    "1.6.4-recommended": "9.11.1.1345",
+    "1.7.10-latest": "10.13.4.1614",
+    "1.7.10-latest-1.7.10": "10.13.2.1343",
+    "1.7.10-recommended": "10.13.4.1558",
+    "1.7.2-latest": "10.12.2.1147",
+    "1.7.2-recommended": "10.12.2.1121",
+    "1.8-latest": "11.14.4.1577",
+    "1.8-recommended": "11.14.4.1563",
+    "1.8.8-latest": "11.15.0.1655",
+    "1.8.9-latest": "11.15.1.2318",
+    "1.8.9-recommended": "11.15.1.1722",
+    "1.9-latest": "12.16.0.1942",
+    "1.9-recommended": "12.16.1.1887",
+    "1.9.4-latest": "12.17.0.2051",
+    "1.9.4-recommended": "12.17.0.1976",
+    "latest-1.7.10": "10.13.2.1343",
+    "recommended": "14.23.5.2768"
+  }
+}
+[22:44:21] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[22:44:22] [Server thread/DEBUG] [FML]: Bar Finished: Loading models took 1.263s
+[22:44:22] [Server thread/DEBUG] [FML]: Bar Finished: Loading models took 1.263s
+[22:44:27] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod props
+[22:44:27] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Decocraft took 6.026s
+[22:44:27] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod ironchest
+[22:44:27] [Server thread/DEBUG] [FML]: Attempting to load the file version.properties from ironchest-1.12.2-7.0.59.842.jar to locate a version number for mod ironchest
+[22:44:27] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod ironchest
+[22:44:27] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Iron Chest took 0.010s
+[22:44:27] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod mantle
+[22:44:27] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod mantle
+[22:44:27] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Mantle took 0.000s
+[22:44:27] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod tconstruct
+[22:44:27] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod tconstruct
+[22:44:27] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Tinkers' Construct took 0.060s
+[22:44:27] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod bspkrscore
+[22:44:27] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod bspkrscore
+[22:44:27] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - bspkrsCore took 0.012s
+[22:44:27] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod treecapitator
+[22:44:27] [Server thread/INFO] [Treecapitator]: Looks like a fresh config; default config loaded.
+[22:44:27] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod treecapitator
+[22:44:27] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Treecapitator took 0.033s
+[22:44:27] [Server thread/DEBUG] [FML]: Bar Finished: PreInitialization took 6.229s
+[22:44:27] [Server thread/INFO] [Chisel]: Loading blocks...
+[22:44:27] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[22:44:27] [Server thread/INFO] [Chisel]: 71 Feature's blocks loaded.
+[22:44:27] [Server thread/INFO] [Chisel]: Loading Tile Entities...
+[22:44:27] [Server thread/INFO] [Chisel]: Tile Entities loaded.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.craftingstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.stenciltable`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partbuilder`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.patternchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolforge`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_controller`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_component`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.faucet`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_basin`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_drain`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.seared_furnace`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tinker_tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.item_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.drying_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.wooden_hopper`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.slime_channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/INFO] [FML]: Applying holder lookups
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:chisel_iron for public static team.chisel.common.item.ItemChisel team.chisel.common.init.ChiselItems.chisel_iron. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:chisel_diamond for public static team.chisel.common.item.ItemChisel team.chisel.common.init.ChiselItems.chisel_diamond. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:chisel_hitech for public static team.chisel.common.item.ItemChisel team.chisel.common.init.ChiselItems.chisel_hitech. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:offsettool for public static team.chisel.common.item.ItemOffsetTool team.chisel.common.init.ChiselItems.offsettool. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:bloodmagic for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.bloodmagic. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:carpet for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.carpet. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete_powder for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete_powder. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:waterstoneextra for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.waterstoneextra. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_gray for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxGrayItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_blue for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxBlueItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_red for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxRedItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_yellow for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxYellowItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_white for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxWhiteItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_cyan for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxCyanItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_magenta for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxMagentaItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_lime for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxLimeItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_black for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxBlackItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_purple for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxPurpleItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_pink for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxPinkItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_green for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxGreenItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_brown for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxBrownItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_orange for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxOrangeItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_light_blue for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxLightBlueItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_shulker_box_silver for public static cpw.mods.ironchest.common.items.shulker.ItemIronShulkerBox cpw.mods.ironchest.common.core.IronChestBlocks.ironShulkerBoxSilverItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup ironchest:iron_chest for public static net.minecraft.item.Item cpw.mods.ironchest.common.core.IronChestBlocks.ironChestItemBlock. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/INFO] [FML]: Holder lookups applied
+[22:44:28] [Server thread/INFO] [Chisel]: Loading items...
+[22:44:28] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[22:44:28] [Server thread/INFO] [Chisel]: 71 Feature's items loaded.
+[22:44:28] [Server thread/INFO] [FML]: Applying holder lookups
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:bloodmagic for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.bloodmagic. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:carpet for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.carpet. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete_powder for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete_powder. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:waterstoneextra for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.waterstoneextra. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/INFO] [FML]: Holder lookups applied
+[22:44:28] [Server thread/TRACE] [FML]: Automatically registered mod tconstruct entity tconstruct.blueslime as tconstruct:blueslime
+[22:44:28] [Server thread/TRACE] [FML]: Automatically registered mod tconstruct entity Indestructible Item as tconstruct:indestructible
+[22:44:28] [Server thread/TRACE] [FML]: Automatically registered mod tconstruct entity arrow as tconstruct:arrow
+[22:44:28] [Server thread/TRACE] [FML]: Automatically registered mod tconstruct entity bolt as tconstruct:bolt
+[22:44:28] [Server thread/TRACE] [FML]: Automatically registered mod tconstruct entity shuriken as tconstruct:shuriken
+[22:44:28] [Server thread/TRACE] [FML]: Automatically registered mod tconstruct entity Fancy Item Frame as tconstruct:fancy_frame
+[22:44:28] [Server thread/TRACE] [FML]: Automatically registered mod tconstruct entity Throwball as tconstruct:throwball
+[22:44:28] [Server thread/INFO] [FML]: Applying holder lookups
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:bloodmagic for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.bloodmagic. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:carpet for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.carpet. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete_powder for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete_powder. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:waterstoneextra for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.waterstoneextra. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/INFO] [FML]: Holder lookups applied
+[22:44:28] [Server thread/INFO] [FML]: Applying holder lookups
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:bloodmagic for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.bloodmagic. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:carpet for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.carpet. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete_powder for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete_powder. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/DEBUG] [FML]: Unable to lookup chisel:waterstoneextra for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.waterstoneextra. This means the object wasn't registered. It's likely just mod options.
+[22:44:28] [Server thread/INFO] [FML]: Holder lookups applied
+[22:44:28] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:44:28] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:44:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[22:44:28] [Server thread/WARN] [net.minecraft.server.dedicated.PropertyManager]: server.properties does not exist
+[22:44:28] [Server thread/INFO] [net.minecraft.server.dedicated.PropertyManager]: Generating new properties file
+[22:44:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[22:44:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[22:44:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[22:44:28] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[22:44:29] [Server thread/INFO] [Chisel]: Loading recipes...
+[22:44:29] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[22:44:29] [Server thread/INFO] [Chisel]: 71 Feature's recipes loaded.
+[22:44:29] [Server thread/INFO] [FML]: Applying holder lookups
+[22:44:29] [Server thread/DEBUG] [FML]: Unable to lookup chisel:bloodmagic for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.bloodmagic. This means the object wasn't registered. It's likely just mod options.
+[22:44:29] [Server thread/DEBUG] [FML]: Unable to lookup chisel:carpet for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.carpet. This means the object wasn't registered. It's likely just mod options.
+[22:44:29] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete. This means the object wasn't registered. It's likely just mod options.
+[22:44:29] [Server thread/DEBUG] [FML]: Unable to lookup chisel:concrete_powder for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.concrete_powder. This means the object wasn't registered. It's likely just mod options.
+[22:44:29] [Server thread/DEBUG] [FML]: Unable to lookup chisel:waterstoneextra for public static team.chisel.common.block.BlockCarvable team.chisel.common.init.ChiselBlocks.waterstoneextra. This means the object wasn't registered. It's likely just mod options.
+[22:44:29] [Server thread/INFO] [FML]: Holder lookups applied
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod minecraft
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod minecraft
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: Initialization - Minecraft took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod mcp
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod mcp
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: Initialization - Minecraft Coder Pack took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod FML
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod FML
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: Initialization - Forge Mod Loader took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod forge
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod forge
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: Initialization - Minecraft Forge took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod chisel
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod chisel
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: Initialization - Chisel took 0.005s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod props
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod props
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: Initialization - Decocraft took 0.003s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod ironchest
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod ironchest
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: Initialization - Iron Chest took 0.009s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod mantle
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod mantle
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: Initialization - Mantle took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod tconstruct
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod tconstruct
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: Initialization - Tinkers' Construct took 0.076s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod bspkrscore
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod bspkrscore
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: Initialization - bspkrsCore took 0.001s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod treecapitator
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod treecapitator
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: Initialization - Treecapitator took 0.007s
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Finished: Initialization took 0.102s
+[22:44:29] [Server thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod minecraft
+[22:44:29] [Server thread/TRACE] [FML]: Sending event IMCEvent to mod minecraft
+[22:44:29] [Server thread/TRACE] [FML]: Sent event IMCEvent to mod minecraft
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Minecraft took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod mcp
+[22:44:29] [Server thread/TRACE] [FML]: Sending event IMCEvent to mod mcp
+[22:44:29] [Server thread/TRACE] [FML]: Sent event IMCEvent to mod mcp
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod FML
+[22:44:29] [Server thread/TRACE] [FML]: Sending event IMCEvent to mod FML
+[22:44:29] [Server thread/TRACE] [FML]: Sent event IMCEvent to mod FML
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod forge
+[22:44:29] [Server thread/TRACE] [FML]: Sending event IMCEvent to mod forge
+[22:44:29] [Server thread/TRACE] [FML]: Sent event IMCEvent to mod forge
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Attempting to deliver 22 IMC messages to mod chisel
+[22:44:29] [Server thread/TRACE] [FML]: Sending event IMCEvent to mod chisel
+[22:44:29] [Server thread/INFO] [Chisel]: Received 22 IMC messages from mod tconstruct.
+[22:44:29] [Server thread/TRACE] [FML]: Sent event IMCEvent to mod chisel
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Chisel took 0.010s
+[22:44:29] [Server thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod props
+[22:44:29] [Server thread/TRACE] [FML]: Sending event IMCEvent to mod props
+[22:44:29] [Server thread/TRACE] [FML]: Sent event IMCEvent to mod props
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Decocraft took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod ironchest
+[22:44:29] [Server thread/TRACE] [FML]: Sending event IMCEvent to mod ironchest
+[22:44:29] [Server thread/TRACE] [FML]: Sent event IMCEvent to mod ironchest
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Iron Chest took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod mantle
+[22:44:29] [Server thread/TRACE] [FML]: Sending event IMCEvent to mod mantle
+[22:44:29] [Server thread/TRACE] [FML]: Sent event IMCEvent to mod mantle
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Mantle took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod tconstruct
+[22:44:29] [Server thread/TRACE] [FML]: Sending event IMCEvent to mod tconstruct
+[22:44:29] [Server thread/TRACE] [FML]: Sent event IMCEvent to mod tconstruct
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Tinkers' Construct took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod bspkrscore
+[22:44:29] [Server thread/TRACE] [FML]: Sending event IMCEvent to mod bspkrscore
+[22:44:29] [Server thread/TRACE] [FML]: Sent event IMCEvent to mod bspkrscore
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - bspkrsCore took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod treecapitator
+[22:44:29] [Server thread/TRACE] [FML]: Sending event IMCEvent to mod treecapitator
+[22:44:29] [Server thread/TRACE] [FML]: Sent event IMCEvent to mod treecapitator
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Treecapitator took 0.000s
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Finished: InterModComms$IMC took 0.012s
+[22:44:29] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:44:29] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod minecraft
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod minecraft
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: PostInitialization - Minecraft took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod mcp
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod mcp
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod FML
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod FML
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: PostInitialization - Forge Mod Loader took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod forge
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod forge
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: PostInitialization - Minecraft Forge took 0.012s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod chisel
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod chisel
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: PostInitialization - Chisel took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod props
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod props
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: PostInitialization - Decocraft took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod ironchest
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod ironchest
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: PostInitialization - Iron Chest took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod mantle
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod mantle
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: PostInitialization - Mantle took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod tconstruct
+[22:44:29] [Server thread/TRACE] [tconstruct-TinkerSmeltery]: Added automatic melting recipe for 1xitem.shears@0 (288 iron)
+[22:44:29] [Server thread/TRACE] [tconstruct-TinkerSmeltery]: Added automatic melting recipe for 1xitem.minecart@0 (720 iron)
+[22:44:29] [Server thread/TRACE] [tconstruct-TinkerSmeltery]: Added automatic melting recipe for 1xtile.weightedPlate_light@0 (288 gold)
+[22:44:29] [Server thread/TRACE] [tconstruct-TinkerSmeltery]: Added automatic melting recipe for 1xtile.ironTrapdoor@0 (576 iron)
+[22:44:29] [Server thread/TRACE] [tconstruct-TinkerSmeltery]: Added automatic melting recipe for 1xitem.leggingsIron@0 (1008 iron)
+[22:44:29] [Server thread/TRACE] [tconstruct-TinkerSmeltery]: Added automatic melting recipe for 1xitem.helmetIron@0 (720 iron)
+[22:44:29] [Server thread/TRACE] [tconstruct-TinkerSmeltery]: Added automatic melting recipe for 3xitem.doorIron@0 (288 iron)
+[22:44:29] [Server thread/TRACE] [tconstruct-TinkerSmeltery]: Added automatic melting recipe for 1xitem.chestplateIron@0 (1152 iron)
+[22:44:29] [Server thread/TRACE] [tconstruct-TinkerSmeltery]: Added automatic melting recipe for 1xitem.bootsIron@0 (576 iron)
+[22:44:29] [Server thread/TRACE] [tconstruct-TinkerSmeltery]: Added automatic melting recipe for 16xtile.fenceIron@0 (54 iron)
+[22:44:29] [Server thread/TRACE] [tconstruct-TinkerSmeltery]: Added automatic melting recipe for 1xtile.weightedPlate_heavy@0 (288 iron)
+[22:44:29] [Server thread/TRACE] [tconstruct-TinkerSmeltery]: Added automatic melting recipe for 1xitem.leggingsGold@0 (1008 gold)
+[22:44:29] [Server thread/TRACE] [tconstruct-TinkerSmeltery]: Added automatic melting recipe for 1xitem.helmetGold@0 (720 gold)
+[22:44:29] [Server thread/TRACE] [tconstruct-TinkerSmeltery]: Added automatic melting recipe for 1xitem.chestplateGold@0 (1152 gold)
+[22:44:29] [Server thread/TRACE] [tconstruct-TinkerSmeltery]: Added automatic melting recipe for 1xitem.bootsGold@0 (576 gold)
+[22:44:29] [Server thread/TRACE] [tconstruct-TinkerSmeltery]: Added automatic melting recipe for 1xitem.cauldron@0 (1008 iron)
+[22:44:29] [Server thread/TRACE] [tconstruct-TinkerSmeltery]: Added automatic melting recipe for 1xitem.bucket@0 (432 iron)
+[22:44:29] [Server thread/TRACE] [tconstruct-TinkerSmeltery]: Added automatic melting recipe for 1xtile.anvil@0 (4464 iron)
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod tconstruct
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: PostInitialization - Tinkers' Construct took 0.259s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod bspkrscore
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod bspkrscore
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: PostInitialization - bspkrsCore took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod treecapitator
+[22:44:29] [Server thread/INFO] [Treecapitator]: Prioritizing User and IMC mod configs...
+[22:44:29] [Server thread/INFO] [Treecapitator]: Registering items and trees...
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod treecapitator
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: PostInitialization - Treecapitator took 0.009s
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Finished: PostInitialization took 0.281s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod minecraft
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod minecraft
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: LoadComplete - Minecraft took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod mcp
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod mcp
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod FML
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod FML
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: LoadComplete - Forge Mod Loader took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod forge
+[22:44:29] [Server thread/DEBUG] [FML]: Forge RecipeSorter Baking:
+[22:44:29] [Server thread/DEBUG] [FML]:   16: RecipeEntry("Before", UNKNOWN, )
+[22:44:29] [Server thread/DEBUG] [FML]:   15: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
+[22:44:29] [Server thread/DEBUG] [FML]:   14: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
+[22:44:29] [Server thread/DEBUG] [FML]:   13: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
+[22:44:29] [Server thread/DEBUG] [FML]:   12: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
+[22:44:29] [Server thread/DEBUG] [FML]:   11: RecipeEntry("minecraft:repair", SHAPELESS, net.minecraft.item.crafting.RecipeRepairItem) After: minecraft:shapeless
+[22:44:29] [Server thread/DEBUG] [FML]:   10: RecipeEntry("minecraft:shield_deco", SHAPELESS, net.minecraft.item.crafting.ShieldRecipes$Decoration) After: minecraft:shapeless
+[22:44:29] [Server thread/DEBUG] [FML]:   9: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
+[22:44:29] [Server thread/DEBUG] [FML]:   8: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
+[22:44:29] [Server thread/DEBUG] [FML]:   7: RecipeEntry("minecraft:pattern_dupe", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeDuplicatePattern) After: minecraft:shapeless
+[22:44:29] [Server thread/DEBUG] [FML]:   6: RecipeEntry("minecraft:tippedarrow", SHAPELESS, net.minecraft.item.crafting.RecipeTippedArrow) After: minecraft:shapeless
+[22:44:29] [Server thread/DEBUG] [FML]:   5: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
+[22:44:29] [Server thread/DEBUG] [FML]:   4: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
+[22:44:29] [Server thread/DEBUG] [FML]:   3: RecipeEntry("minecraft:pattern_add", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern) After: minecraft:shapeless
+[22:44:29] [Server thread/DEBUG] [FML]:   2: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
+[22:44:29] [Server thread/DEBUG] [FML]:   1: RecipeEntry("After", UNKNOWN, )
+[22:44:29] [Server thread/DEBUG] [FML]: Sorting recipes
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod forge
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: LoadComplete - Minecraft Forge took 0.008s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod chisel
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod chisel
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: LoadComplete - Chisel took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod props
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod props
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: LoadComplete - Decocraft took 0.001s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod ironchest
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod ironchest
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: LoadComplete - Iron Chest took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod mantle
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod mantle
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: LoadComplete - Mantle took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod tconstruct
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod tconstruct
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: LoadComplete - Tinkers' Construct took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod bspkrscore
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod bspkrscore
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: LoadComplete - bspkrsCore took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod treecapitator
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod treecapitator
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: LoadComplete - Treecapitator took 0.000s
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Finished: LoadComplete took 0.010s
+[22:44:29] [Server thread/DEBUG] [FML]: Freezing registries
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod minecraft
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod minecraft
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Minecraft took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod mcp
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod mcp
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod FML
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod FML
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod forge
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod forge
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Minecraft Forge took 0.039s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod chisel
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod chisel
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Chisel took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod props
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod props
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Decocraft took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod ironchest
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod ironchest
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Iron Chest took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod mantle
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod mantle
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Mantle took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod tconstruct
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod tconstruct
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Tinkers' Construct took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod bspkrscore
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod bspkrscore
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - bspkrsCore took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod treecapitator
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod treecapitator
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Treecapitator took 0.000s
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Finished: ModIdMapping took 0.041s
+[22:44:29] [Server thread/DEBUG] [FML]: All registries frozen
+[22:44:29] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 11 mods
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLServerAboutToStartEvent to mod minecraft
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLServerAboutToStartEvent to mod minecraft
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: ServerAboutToStart - Minecraft took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLServerAboutToStartEvent to mod mcp
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLServerAboutToStartEvent to mod mcp
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: ServerAboutToStart - Minecraft Coder Pack took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLServerAboutToStartEvent to mod FML
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLServerAboutToStartEvent to mod FML
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: ServerAboutToStart - Forge Mod Loader took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLServerAboutToStartEvent to mod forge
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLServerAboutToStartEvent to mod forge
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: ServerAboutToStart - Minecraft Forge took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLServerAboutToStartEvent to mod chisel
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLServerAboutToStartEvent to mod chisel
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: ServerAboutToStart - Chisel took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLServerAboutToStartEvent to mod props
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLServerAboutToStartEvent to mod props
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: ServerAboutToStart - Decocraft took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLServerAboutToStartEvent to mod ironchest
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLServerAboutToStartEvent to mod ironchest
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: ServerAboutToStart - Iron Chest took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLServerAboutToStartEvent to mod mantle
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLServerAboutToStartEvent to mod mantle
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: ServerAboutToStart - Mantle took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLServerAboutToStartEvent to mod tconstruct
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLServerAboutToStartEvent to mod tconstruct
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: ServerAboutToStart - Tinkers' Construct took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLServerAboutToStartEvent to mod bspkrscore
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLServerAboutToStartEvent to mod bspkrscore
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: ServerAboutToStart - bspkrsCore took 0.000s
+[22:44:29] [Server thread/TRACE] [FML]: Sending event FMLServerAboutToStartEvent to mod treecapitator
+[22:44:29] [Server thread/TRACE] [FML]: Sent event FMLServerAboutToStartEvent to mod treecapitator
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Step: ServerAboutToStart - Treecapitator took 0.000s
+[22:44:29] [Server thread/DEBUG] [FML]: Bar Finished: ServerAboutToStart took 0.001s
+[22:44:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[22:44:30] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@146f6729)
+[22:44:30] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[22:44:31] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@146f6729)
+[22:44:31] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@146f6729)
+[22:44:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[22:44:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 12%
+[22:44:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 31%
+[22:44:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 37%
+[22:44:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 44%
+[22:44:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 58%
+[22:44:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 76%
+[22:44:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 95%
+[22:44:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (9.266s)! For help, type "help" or "?"
+[22:44:39] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod minecraft
+[22:44:39] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod minecraft
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Minecraft took 0.000s
+[22:44:39] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod mcp
+[22:44:39] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod mcp
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Minecraft Coder Pack took 0.000s
+[22:44:39] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod FML
+[22:44:39] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod FML
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Forge Mod Loader took 0.000s
+[22:44:39] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod forge
+[22:44:39] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod forge
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Minecraft Forge took 0.023s
+[22:44:39] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod chisel
+[22:44:39] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod chisel
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Chisel took 0.000s
+[22:44:39] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod props
+[22:44:39] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod props
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Decocraft took 0.000s
+[22:44:39] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod ironchest
+[22:44:39] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod ironchest
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Iron Chest took 0.000s
+[22:44:39] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod mantle
+[22:44:39] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod mantle
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Mantle took 0.000s
+[22:44:39] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod tconstruct
+[22:44:39] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod tconstruct
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Tinkers' Construct took 0.000s
+[22:44:39] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod bspkrscore
+[22:44:39] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod bspkrscore
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - bspkrsCore took 0.001s
+[22:44:39] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod treecapitator
+[22:44:39] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod treecapitator
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Treecapitator took 0.000s
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Finished: ServerStarting took 0.025s
+[22:44:39] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod minecraft
+[22:44:39] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod minecraft
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Minecraft took 0.000s
+[22:44:39] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod mcp
+[22:44:39] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod mcp
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Minecraft Coder Pack took 0.000s
+[22:44:39] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod FML
+[22:44:39] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod FML
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Forge Mod Loader took 0.000s
+[22:44:39] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod forge
+[22:44:39] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod forge
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Minecraft Forge took 0.000s
+[22:44:39] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod chisel
+[22:44:39] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod chisel
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Chisel took 0.000s
+[22:44:39] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod props
+[22:44:39] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod props
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Decocraft took 0.000s
+[22:44:39] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod ironchest
+[22:44:39] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod ironchest
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Iron Chest took 0.000s
+[22:44:39] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod mantle
+[22:44:39] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod mantle
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Mantle took 0.000s
+[22:44:39] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod tconstruct
+[22:44:39] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod tconstruct
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Tinkers' Construct took 0.000s
+[22:44:39] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod bspkrscore
+[22:44:39] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod bspkrscore
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - bspkrsCore took 0.000s
+[22:44:39] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod treecapitator
+[22:44:39] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod treecapitator
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Treecapitator took 0.000s
+[22:44:39] [Server thread/DEBUG] [FML]: Bar Finished: ServerStarted took 0.001s
+[22:44:39] [Server thread/DEBUG] [FML]: Queueing dimension -1 to unload
+[22:44:39] [Server thread/DEBUG] [FML]: Queueing dimension 1 to unload
+[22:44:39] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:44:39] [Server thread/INFO] [FML]: Unloading dimension 1
+[22:45:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:46:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:46:46] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player pre05 is 09f4a4df-626b-4dea-8953-2cdf14b9fe8a
+[22:46:46] [Server thread/TRACE] [FML]: Handshake channel activating
+[22:46:46] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[22:46:46] [Server thread/DEBUG] [FML]:   Next: HELLO
+[22:46:46] [Netty Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:46:46] [Netty Server IO #2/INFO] [FML]: Client protocol version 2
+[22:46:46] [Netty Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:14 mods->FMLHandshakeServerState$2:HELLO
+[22:46:46] [Netty Server IO #2/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,tconstruct@1.12.2-2.12.0.135,ptrmodellib@1.0.4,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,chunkanimator@1.2,chisel@MC1.12.2-0.2.1.35,props@2.6.2,forge@14.23.5.2838,mantle@1.12-1.3.3.49,mcp@9.42,ctm@MC1.12.2-0.3.3.22,ironchest@1.12.2-7.0.59.842,journeymap@1.12.2-5.5.4
+[22:46:46] [Netty Server IO #2/INFO] [FML]: Attempting connection with missing mods [bspkrscore, treecapitator] at CLIENT
+[22:46:46] [Netty Server IO #2/INFO] [FML]: Rejecting connection CLIENT: Treecapitator: Requires version at_0.9 but mod is not found on client.
+bspkrsCore: Requires version at_0.9 but mod is not found on client.
+[22:46:46] [Netty Server IO #2/DEBUG] [FML]:   Next: ERROR
+[22:46:46] [Netty Server IO #2/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Treecapitator: Requires version at_0.9 but mod is not found on client.
+bspkrsCore: Requires version at_0.9 but mod is not found on client.
+[22:46:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: pre05 lost connection: Server Mod rejections:
+Treecapitator: Requires version at_0.9 but mod is not found on client.
+bspkrsCore: Requires version at_0.9 but mod is not found on client.
+[22:46:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pre05 left the game
+[22:46:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:47:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:48:11] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player pre05 is 09f4a4df-626b-4dea-8953-2cdf14b9fe8a
+[22:48:11] [Server thread/TRACE] [FML]: Handshake channel activating
+[22:48:11] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[22:48:11] [Server thread/DEBUG] [FML]:   Next: HELLO
+[22:48:11] [Netty Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:48:11] [Netty Server IO #4/INFO] [FML]: Client protocol version 2
+[22:48:11] [Netty Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $ModList:16 mods->FMLHandshakeServerState$2:HELLO
+[22:48:11] [Netty Server IO #4/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,tconstruct@1.12.2-2.12.0.135,ptrmodellib@1.0.4,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,bspkrscore@at_0.9,chunkanimator@1.2,chisel@MC1.12.2-0.2.1.35,props@2.6.2,forge@14.23.5.2838,mantle@1.12-1.3.3.49,mcp@9.42,treecapitator@at_0.9,ctm@MC1.12.2-0.3.3.22,ironchest@1.12.2-7.0.59.842,journeymap@1.12.2-5.5.4
+[22:48:11] [Netty Server IO #4/DEBUG] [FML]:   Next: WAITINGCACK
+[22:48:11] [Netty Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:48:11] [Netty Server IO #4/DEBUG] [FML]:   Next: COMPLETE
+[22:48:12] [Netty Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:48:12] [Netty Server IO #4/DEBUG] [FML]:   Next: DONE
+[22:48:12] [Netty Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:48:12] [Netty Server IO #4/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[22:48:12] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:48:12] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: pre05[/127.0.0.1:51710] logged in with entity id 1929 at (-117.5, 68.0, 81.5)
+[22:48:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pre05 joined the game
+[22:48:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:49:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:49:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: pre05 lost connection: Disconnected
+[22:49:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pre05 left the game
+[22:49:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:50:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:51:16] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player pre05 is 09f4a4df-626b-4dea-8953-2cdf14b9fe8a
+[22:51:16] [Server thread/TRACE] [FML]: Handshake channel activating
+[22:51:16] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[22:51:16] [Server thread/DEBUG] [FML]:   Next: HELLO
+[22:51:16] [Netty Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:51:16] [Netty Server IO #6/INFO] [FML]: Client protocol version 2
+[22:51:16] [Netty Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $ModList:16 mods->FMLHandshakeServerState$2:HELLO
+[22:51:16] [Netty Server IO #6/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,tconstruct@1.12.2-2.12.0.135,ptrmodellib@1.0.4,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,bspkrscore@at_0.9,chunkanimator@1.2,chisel@MC1.12.2-0.2.1.35,props@2.6.2,forge@14.23.5.2838,mantle@1.12-1.3.3.49,mcp@9.42,treecapitator@at_0.9,ctm@MC1.12.2-0.3.3.22,ironchest@1.12.2-7.0.59.842,journeymap@1.12.2-5.5.4
+[22:51:16] [Netty Server IO #6/DEBUG] [FML]:   Next: WAITINGCACK
+[22:51:16] [Netty Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:51:16] [Netty Server IO #6/DEBUG] [FML]:   Next: COMPLETE
+[22:51:16] [Netty Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:51:16] [Netty Server IO #6/DEBUG] [FML]:   Next: DONE
+[22:51:16] [Netty Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:51:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:51:16] [Netty Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[22:51:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: pre05[/31.53.133.155:1024] logged in with entity id 2868 at (-131.2634083980945, 70.0, 99.30450224436277)
+[22:51:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pre05 joined the game
+[22:51:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: pre05 lost connection: Disconnected
+[22:51:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pre05 left the game
+[22:51:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:51:29] [User Authenticator #4/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player pre05 is 09f4a4df-626b-4dea-8953-2cdf14b9fe8a
+[22:51:29] [Server thread/TRACE] [FML]: Handshake channel activating
+[22:51:29] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[22:51:29] [Server thread/DEBUG] [FML]:   Next: HELLO
+[22:51:29] [Netty Server IO #8/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:51:29] [Netty Server IO #8/INFO] [FML]: Client protocol version 2
+[22:51:29] [Netty Server IO #8/DEBUG] [FML]: FMLHandshakeServerState: $ModList:16 mods->FMLHandshakeServerState$2:HELLO
+[22:51:29] [Netty Server IO #8/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,tconstruct@1.12.2-2.12.0.135,ptrmodellib@1.0.4,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,bspkrscore@at_0.9,chunkanimator@1.2,chisel@MC1.12.2-0.2.1.35,props@2.6.2,forge@14.23.5.2838,mantle@1.12-1.3.3.49,mcp@9.42,treecapitator@at_0.9,ctm@MC1.12.2-0.3.3.22,ironchest@1.12.2-7.0.59.842,journeymap@1.12.2-5.5.4
+[22:51:29] [Netty Server IO #8/DEBUG] [FML]:   Next: WAITINGCACK
+[22:51:29] [Netty Server IO #8/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:51:29] [Netty Server IO #8/DEBUG] [FML]:   Next: COMPLETE
+[22:51:30] [Netty Server IO #8/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:51:30] [Netty Server IO #8/DEBUG] [FML]:   Next: DONE
+[22:51:30] [Netty Server IO #8/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:51:30] [Netty Server IO #8/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[22:51:30] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:51:30] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: pre05[/31.53.133.155:1024] logged in with entity id 2918 at (-131.2634083980945, 70.0, 99.30450224436277)
+[22:51:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pre05 joined the game
+[22:51:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: pre05 lost connection: Disconnected
+[22:51:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pre05 left the game
+[22:52:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:52:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:53:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:54:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

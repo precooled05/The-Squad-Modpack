@@ -1,0 +1,636 @@
+[22:47:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:47:22] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:47:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:47:22] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2838 for Minecraft 1.12.2 loading
+[22:47:22] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_201, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_201
+[22:47:22] [main/INFO] [FML]: Searching C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\mods for mods
+[22:47:22] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ChunkAnimator-MC1.12-1.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:47:22] [main/WARN] [FML]: The coremod lumien.chunkanimator.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:47:22] [main/WARN] [FML]: The coremod LoadingPlugin (lumien.chunkanimator.asm.LoadingPlugin) is not signed!
+[22:47:22] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-0.3.3.22.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:47:22] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:47:22] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[22:47:22] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:47:23] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:47:23] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_E3.jar
+[22:47:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:47:23] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[22:47:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:47:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:47:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:47:23] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[22:47:23] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[22:47:23] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[22:47:23] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:221]: OptiFine ClassTransformer
+[22:47:23] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:221]: OptiFine ZIP file: C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\mods\OptiFine_1.12.2_HD_U_E3.jar
+[22:47:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:47:24] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:47:25] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[22:47:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:47:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:47:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:47:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:47:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:47:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:47:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:47:25] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[22:47:25] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[22:47:26] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraftforge.client.ForgeHooksClient], Method [getDamageModel]
+[22:47:26] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraftforge.client.ForgeHooksClient Finished.
+[22:47:26] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: pre05
+[22:47:26] [Client thread/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[22:47:26] [Client thread/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[22:47:29] [Client thread/INFO] [Config]: [OptiFine] *** Reflector Forge ***
+[22:47:29] [Client thread/INFO] [Config]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[22:47:29] [Client thread/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.client.renderer.texture.TextureAtlasSprite], Method [updateAnimationInterpolated]
+[22:47:29] [Client thread/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.client.renderer.texture.TextureAtlasSprite Finished.
+[22:47:29] [Client thread/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.client.renderer.texture.TextureMap], Method [registerSprite]
+[22:47:29] [Client thread/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.client.renderer.texture.TextureMap Finished.
+[22:47:29] [Client thread/INFO] [Config]: [OptiFine] *** Reflector Vanilla ***
+[22:47:29] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[22:47:29] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[22:47:30] [Client thread/INFO] [Config]: [OptiFine] 
+[22:47:30] [Client thread/INFO] [Config]: [OptiFine] OptiFine_1.12.2_HD_U_E3
+[22:47:30] [Client thread/INFO] [Config]: [OptiFine] Build: 20181210-121000
+[22:47:30] [Client thread/INFO] [Config]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[22:47:30] [Client thread/INFO] [Config]: [OptiFine] Java: 1.8.0_201, Oracle Corporation
+[22:47:30] [Client thread/INFO] [Config]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[22:47:30] [Client thread/INFO] [Config]: [OptiFine] LWJGL: 2.9.4
+[22:47:30] [Client thread/INFO] [Config]: [OptiFine] OpenGL: GeForce GTX 1080 Ti/PCIe/SSE2, version 4.6.0 NVIDIA 419.67, NVIDIA Corporation
+[22:47:30] [Client thread/INFO] [Config]: [OptiFine] OpenGL Version: 4.6.0
+[22:47:30] [Client thread/INFO] [Config]: [OptiFine] Maximum texture size: 32768x32768
+[22:47:30] [VersionCheck/INFO] [Config]: [OptiFine] Checking for new version
+[22:47:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 419.67
+[22:47:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Vendor:  NVIDIA Corporation
+[22:47:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Renderer: GeForce GTX 1080 Ti/PCIe/SSE2
+[22:47:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[22:47:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[22:47:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[22:47:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[22:47:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Load shaders configuration.
+[22:47:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Save shaders configuration.
+[22:47:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] No shaderpack loaded.
+[22:47:30] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of block mappings after resources are loaded
+[22:47:31] [Client thread/INFO] [FML]: Forge Mod Loader has detected optifine OptiFine_1.12.2_HD_U_E3, enabling compatibility features
+[22:47:31] [VersionCheck/INFO] [Config]: [OptiFine] Version found: D3
+[22:47:31] [Client thread/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_201, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 1206561088 bytes (1150 MB) / 1438646272 bytes (1372 MB) up to 3817865216 bytes (3641 MB)
+	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms1024m -Xmx4096m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+Inventory Tweaks Coremod (InventoryTweaks-1.63.jar)
+  invtweaks.forge.asm.ContainerTransformer
+CTMCorePlugin (CTM-MC1.12.2-0.3.3.22.jar)
+  team.chisel.ctm.client.asm.CTMTransformer
+LoadingPlugin (ChunkAnimator-MC1.12-1.2.jar)
+  lumien.chunkanimator.asm.ClassTransformer
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 419.67' Renderer: 'GeForce GTX 1080 Ti/PCIe/SSE2'
+[22:47:31] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2838 Initialized
+[22:47:31] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:47:31] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[22:47:31] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[22:47:31] [Client thread/INFO] [FML]: Searching C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\mods for mods
+[22:47:32] [Client thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.59.842
+[22:47:32] [Client thread/INFO] [FML]: Forge Mod Loader has identified 16 mods to load
+[22:47:32] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, chisel, chunkanimator, ctm, props, inventorytweaks, ironchest, journeymap, mantle, ptrmodellib, tconstruct, bspkrscore, treecapitator] at CLIENT
+[22:47:32] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, chisel, chunkanimator, ctm, props, inventorytweaks, ironchest, journeymap, mantle, ptrmodellib, tconstruct, bspkrscore, treecapitator] at SERVER
+[22:47:33] [Client thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselsandbitsIntegration; missing dependency: chiselsandbits
+[22:47:33] [Client thread/INFO] [Pulsar-tconstruct]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
+[22:47:33] [Client thread/INFO] [Pulsar-tconstruct]: Skipping Pulse wailaIntegration; missing dependency: waila
+[22:47:33] [Client thread/INFO] [Pulsar-tconstruct]: Skipping Pulse theoneprobeIntegration; missing dependency: theoneprobe
+[22:47:33] [Client thread/INFO] [tconstruct]: Preparing to take over the world
+[22:47:33] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chunk Animator, FMLFileResourcePack:CTM, FMLFileResourcePack:Decocraft, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Mantle, FMLFileResourcePack:ptrmodellib, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Treecapitator
+[22:47:34] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[22:47:34] [Client thread/INFO] [FML]: Found 1272 ObjectHolder annotations
+[22:47:34] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[22:47:34] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[22:47:34] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[22:47:34] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[22:47:34] [Client thread/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper], Method [getTextures]
+[22:47:34] [Client thread/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper Finished.
+[22:47:34] [Client thread/INFO] [FML]: Applying holder lookups
+[22:47:34] [Client thread/INFO] [FML]: Holder lookups applied
+[22:47:34] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[22:47:34] [Client thread/INFO] [com.mia.craftstudio.CSPack]: Original locale was , switching to Locale.US
+[22:47:34] [Client thread/INFO] [com.mia.craftstudio.CSPack]: Locale is now en_US
+[22:47:34] [Client thread/INFO] [com.mia.craftstudio.CSPack]: Locale was restored to 
+[22:47:34] [Thread-3/INFO] [FML]: Using alternative sync timing : 200 frames of Display.update took 3267282800 nanos
+[22:47:46] [Client thread/INFO] [ptrmodellib]: Total mipmap : 3140 ms
+[22:47:46] [Client thread/INFO] [journeymap]: No plugins for JourneyMap API discovered.
+[22:47:46] [Client thread/INFO] [Treecapitator]: Looks like a fresh config; default config loaded.
+[22:47:46] [Client thread/INFO] [Chisel]: Loading blocks...
+[22:47:46] [Client thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[22:47:47] [Client thread/INFO] [Chisel]: 71 Feature's blocks loaded.
+[22:47:47] [Client thread/INFO] [Chisel]: Loading Tile Entities...
+[22:47:47] [Client thread/INFO] [Chisel]: Tile Entities loaded.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.craftingstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.stenciltable`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partbuilder`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.patternchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolforge`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_controller`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_component`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.faucet`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_basin`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_drain`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.seared_furnace`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tinker_tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.item_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.drying_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.wooden_hopper`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.slime_channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:47:47] [Client thread/INFO] [FML]: Applying holder lookups
+[22:47:47] [Client thread/INFO] [FML]: Holder lookups applied
+[22:47:47] [Client thread/INFO] [Chisel]: Loading items...
+[22:47:47] [Client thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[22:47:47] [Client thread/INFO] [Chisel]: 71 Feature's items loaded.
+[22:47:47] [Client thread/INFO] [FML]: Applying holder lookups
+[22:47:47] [Client thread/INFO] [FML]: Holder lookups applied
+[22:47:47] [Client thread/INFO] [FML]: Applying holder lookups
+[22:47:47] [Client thread/INFO] [FML]: Holder lookups applied
+[22:47:47] [Client thread/INFO] [FML]: Applying holder lookups
+[22:47:47] [Client thread/INFO] [FML]: Holder lookups applied
+[22:47:47] [Client thread/INFO] [FML]: Injecting itemstacks
+[22:47:47] [Client thread/INFO] [FML]: Itemstack injection complete
+[22:47:47] [Client thread/INFO] [Config]: [OptiFine] *** Reloading textures ***
+[22:47:47] [Client thread/INFO] [Config]: [OptiFine] Resource packs: Default
+[22:47:51] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[22:47:51] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[22:47:51] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:47:51] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[22:47:51] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load multimodel tconstruct:tools/arrow.tcon#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/arrow_head.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/arrow_shaft.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/axe_head.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load multimodel tconstruct:tools/battlesign.tcon#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/binding.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load multimodel tconstruct:tools/bolt.tcon#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load multimodel tconstruct:parts/bolt_core.tcon#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/bow_limb.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/bow_string.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/broad_axe_head.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load multimodel tconstruct:tools/broadsword.tcon#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load multimodel tconstruct:tools/cleaver.tcon#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/cross_guard.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load multimodel tconstruct:tools/crossbow.tcon#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load multimodel tconstruct:tools/excavator.tcon#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/excavator_head.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/fletching.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load multimodel tconstruct:tools/frypan.tcon#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load multimodel tconstruct:tools/hammer.tcon#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/hammer_head.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/hand_guard.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load multimodel tconstruct:tools/hatchet.tcon#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load multimodel tconstruct:tools/kama.tcon#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/kama_head.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/knife_blade.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/large_plate.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/large_sword_blade.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load multimodel tconstruct:tools/longbow.tcon#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load multimodel tconstruct:tools/longsword.tcon#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load multimodel tconstruct:tools/lumberaxe.tcon#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load multimodel tconstruct:tools/mattock.tcon#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load multimodel tconstruct:moms_spaghetti.tcon#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/pan_head.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/pick_head.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load multimodel tconstruct:tools/pickaxe.tcon#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load multimodel tconstruct:tools/rapier.tcon#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load multimodel tconstruct:tools/scythe.tcon#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/scythe_head.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/shard.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/sharpening_kit.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load multimodel tconstruct:tools/shortbow.tcon#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load multimodel tconstruct:tools/shovel.tcon#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/shovel_head.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load multimodel tconstruct:tools/shuriken.tcon#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/sign_head.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/sword_blade.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/tool_rod.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/tough_binding.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/tough_tool_rod.tmat#inventory
+[22:47:55] [Client thread/ERROR] [tconstruct-API]: Could not load material model tconstruct:parts/wide_guard.tmat#inventory
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] Mipmap levels: 4
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] Multitexture: false
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_pane_white.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_white.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_pane_purple.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_purple.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_blue.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_pane_blue.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_brown.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_pane_brown.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_green.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_pane_green.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_pane_red.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_red.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_black.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_pane_black.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_orange.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_pane_orange.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_magenta.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_pane_magenta.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_light_blue.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_pane_light_blue.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_pane_yellow.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_yellow.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_lime.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_pane_lime.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pane_pink.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pink.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_gray.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_pane_gray.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_pane_silver.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_silver.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_cyan.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_pane_cyan.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/bookshelf.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glass.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glasspane.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/sandstone.properties
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] Multipass connected textures: false
+[22:47:57] [Client thread/INFO] [Config]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[22:47:58] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/concrete_lime/bricks-chaotic, 48 -> 64
+[22:47:58] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/basalt/bricks-chaotic, 48 -> 64
+[22:47:58] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/marble/bricks-chaotic, 48 -> 64
+[22:47:58] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/bricks/bricks-chaotic, 48 -> 64
+[22:47:58] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/concrete_gray/bricks-chaotic, 48 -> 64
+[22:47:58] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/concrete_black/bricks-chaotic, 48 -> 64
+[22:47:58] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/concrete_purple/bricks-chaotic, 48 -> 64
+[22:47:58] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/coal/coalcoke/bricks-chaotic, 48 -> 64
+[22:47:58] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/coal/coal/bricks-chaotic, 48 -> 64
+[22:47:58] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/prismarineanim/bricks-chaotic, 48 -> 64
+[22:47:58] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/netherbrick/netherfancybricks, 48 -> 64
+[22:47:58] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/coal/charcoal/bricks-chaotic, 48 -> 64
+[22:47:58] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/purpur/bricks-chaotic, 48 -> 64
+[22:47:58] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/technical/rustyboltedplates, 48 -> 64
+[22:47:58] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/technical/massivehexplating, 48 -> 64
+[22:47:58] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/concrete_brown/bricks-chaotic, 48 -> 64
+[22:47:58] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/endstone/bricks-chaotic, 48 -> 64
+[22:47:58] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/concrete_yellow/bricks-chaotic, 48 -> 64
+[22:47:58] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/hardenedclay/bricks-chaotic, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/stone/bricks-chaotic, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/concrete_white/bricks-chaotic, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/limestone/bricks-chaotic, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/concrete_pink/bricks-chaotic, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/technical/new/makeshiftpanels, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/concrete_lightblue/bricks-chaotic, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/concrete_lightgray/bricks-chaotic, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/sandstonered/bricks-chaotic, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/technical/new/piping, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/concrete_magenta/bricks-chaotic, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/concrete_red/bricks-chaotic, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/technical/massivefan, 96 -> 128
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/andesite/bricks-chaotic, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/templemossy/plate-cracked, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/temple/plate-cracked, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/sandstoneyellow/bricks-chaotic, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/quartz/bricks-chaotic, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/granite/bricks-chaotic, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/ice/bricks-chaotic, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/cobblestone/bricks-chaotic, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/fluid/bricks-chaotic, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/concrete_blue/bricks-chaotic, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/diorite/bricks-chaotic, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/factory/plating, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/concrete_cyan/bricks-chaotic, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/concrete_orange/bricks-chaotic, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Scaled non power of 2: chisel:blocks/concrete_green/bricks-chaotic, 48 -> 64
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Custom loader sprites: 2125
+[22:47:59] [Client thread/INFO] [Config]: [OptiFine] Sprite dependencies: 2864
+[22:48:00] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 2048x2048 textures-atlas
+[22:48:00] [Client thread/INFO] [Config]: [OptiFine] Animated sprites: 84
+[22:48:02] [Client thread/ERROR] [FML]: Exception loading model for variant props:blockprops#facing=west
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model props:blockprops#facing=west with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:166) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_201]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_201]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:196) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:231) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 23 more
+[22:48:02] [Client thread/ERROR] [FML]: Exception loading blockstate for the variant props:blockprops#facing=west: 
+java.lang.Exception: Could not load model definition for variant props:blockprops
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:269) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:129) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_201]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_201]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:196) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:231) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+Caused by: java.lang.RuntimeException: Encountered an exception when loading model definition of model props:blockstates/blockprops.json
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:251) ~[cgb.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:231) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 22 more
+Caused by: java.io.FileNotFoundException: props:blockstates/blockprops.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_135056_b(FallbackResourceManager.java:104) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_135056_b(SimpleReloadableResourceManager.java:79) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:244) ~[cgb.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:231) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 22 more
+[22:48:02] [Client thread/ERROR] [FML]: Exception loading model for variant props:blockprops#facing=east
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model props:blockprops#facing=east with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:166) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_201]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_201]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:196) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:231) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 23 more
+[22:48:02] [Client thread/ERROR] [FML]: Exception loading model for variant props:blockfake#facing=south
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model props:blockfake#facing=south with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:166) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_201]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_201]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:196) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:231) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 23 more
+[22:48:02] [Client thread/ERROR] [FML]: Exception loading blockstate for the variant props:blockfake#facing=south: 
+java.lang.Exception: Could not load model definition for variant props:blockfake
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:269) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:129) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_201]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_201]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:196) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:231) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+Caused by: java.lang.RuntimeException: Encountered an exception when loading model definition of model props:blockstates/blockfake.json
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:251) ~[cgb.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:231) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 22 more
+Caused by: java.io.FileNotFoundException: props:blockstates/blockfake.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_135056_b(FallbackResourceManager.java:104) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_135056_b(SimpleReloadableResourceManager.java:79) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_188632_a(ModelBakery.java:244) ~[cgb.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:231) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 22 more
+[22:48:02] [Client thread/ERROR] [FML]: Exception loading model for variant props:blockprops#facing=south
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model props:blockprops#facing=south with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:166) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_201]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_201]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:196) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:231) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 23 more
+[22:48:02] [Client thread/FATAL] [FML]: Suppressed additional 3 model loading errors for domain props
+[22:48:03] [Client thread/INFO] [Chisel]: Loading recipes...
+[22:48:03] [Client thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[22:48:03] [Client thread/INFO] [Chisel]: 71 Feature's recipes loaded.
+[22:48:03] [Client thread/INFO] [FML]: Applying holder lookups
+[22:48:03] [Client thread/INFO] [FML]: Holder lookups applied
+[22:48:03] [Client thread/INFO] [inventorytweaks]: Mod initialized
+[22:48:03] [Client thread/INFO] [journeymap]: JourneyMap log initialized.
+[22:48:03] [Client thread/INFO] [journeymap]: initialize ENTER
+[22:48:03] [Client thread/ERROR] [journeymap]: Default theme not found in C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\journeymap\icon\theme\flat\OceanMonument.theme2.json: OceanMonument (SUPPRESSED)
+[22:48:03] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[22:48:03] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[22:48:03] [Client thread/INFO] [journeymap]: [ClientAPI] built with JourneyMap API 1.4
+[22:48:03] [Client thread/INFO] [journeymap]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[22:48:03] [Client thread/INFO] [journeymap]: initialize EXIT, elapsed count 0 avg ?ms
+[22:48:03] [Client thread/INFO] [Chisel]: Received 22 IMC messages from mod tconstruct.
+[22:48:03] [Client thread/INFO] [FML]: Injecting itemstacks
+[22:48:03] [Client thread/INFO] [FML]: Itemstack injection complete
+[22:48:04] [Client thread/ERROR] [journeymap]: Couldn't locate icons for Default: C:\ProgramData\MultiMC\instances\The%20Squad%20Modpack\.minecraft\mods\journeymap-1.12.2-5.5.4.jar\assets\journeymap\icon\entity
+[22:48:04] [Client thread/INFO] [journeymap]: Added entity icons from journeymap:icon/entity. Success: false
+[22:48:04] [Client thread/ERROR] [journeymap]: Couldn't locate icons for flat: C:\ProgramData\MultiMC\instances\The%20Squad%20Modpack\.minecraft\mods\journeymap-1.12.2-5.5.4.jar\assets\journeymap\theme\flat
+[22:48:04] [Client thread/INFO] [journeymap]: Preloaded theme textures: 0
+[22:48:04] [Client thread/INFO] [Treecapitator]: Prioritizing User and IMC mod configs...
+[22:48:04] [Client thread/INFO] [Treecapitator]: Registering items and trees...
+[22:48:05] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 16 mods
+[22:48:05] [Client thread/ERROR] [FML]: A critical error occurred instantiating the gui factory for mod treecapitator
+java.lang.ClassCastException: class bspkrs.treecapitator.fml.gui.ModGuiFactoryHandler
+	at java.lang.Class.asSubclass(Unknown Source) ~[?:1.8.0_201]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:379) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_201]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_201]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:196) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:231) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+[22:48:05] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[22:48:05] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[22:48:05] [Client thread/INFO] [Config]: [OptiFine] *** Reloading custom textures ***
+[22:48:09] [Netty Client IO #0/INFO] [FML]: Attempting connection with missing mods [chunkanimator, ctm, inventorytweaks, journeymap, ptrmodellib] at SERVER
+[22:48:11] [Client thread/INFO] [net.minecraft.client.multiplayer.GuiConnecting]: Connecting to localhost, 25565
+[22:48:11] [Netty Client IO #1/INFO] [FML]: Server protocol version 2
+[22:48:11] [Netty Client IO #1/INFO] [FML]: Attempting connection with missing mods [chunkanimator, ctm, inventorytweaks, journeymap, ptrmodellib] at SERVER
+[22:48:11] [Client thread/INFO] [FML]: Injecting existing registry data into this client instance
+[22:48:12] [Client thread/INFO] [FML]: Applying holder lookups
+[22:48:12] [Client thread/INFO] [FML]: Holder lookups applied
+[22:48:12] [Netty Client IO #1/INFO] [FML]: [Netty Client IO #1] Client side modded connection established
+[22:48:12] [Netty Client IO #1/INFO] [tconstruct-Config]: Syncing Config with Server
+[22:48:16] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[22:48:16] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[22:48:16] [Client thread/INFO] [journeymap]: Loading journeymap.topo.config
+[22:48:16] [Client thread/INFO] [journeymap]: Loaded 0 waypoints from C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\journeymap\data\mp\Minecraft~Server\waypoints
+[22:48:16] [Client thread/INFO] [journeymap]: Mapping started in C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\journeymap\data\mp\Minecraft~Server\DIM0. Memory: 2970MB total, 1514MB free 
+[22:48:16] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §eJourneyMap:§f Press [§bJ§f]
+[22:48:16] [Client thread/INFO] [journeymap]: JourneyMap: Press [J]
+[22:48:19] [Client thread/INFO] [Mantle]: Started loading book...
+[22:48:19] [Client thread/INFO] [Mantle]: Finished loading book
+[22:49:20] [Client thread/INFO] [journeymap]: Mapping halted in C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\journeymap\data\mp\Minecraft~Server\DIM0
+[22:49:20] [Client thread/INFO] [FML]: Applying holder lookups
+[22:49:20] [Client thread/INFO] [FML]: Holder lookups applied
+[22:49:23] [Netty Client IO #2/INFO] [FML]: Attempting connection with missing mods [chunkanimator, ctm, inventorytweaks, journeymap, ptrmodellib] at SERVER
+[22:50:41] [Client thread/INFO] [invtweaks.forge.asm.ContainerTransformer]: InvTweaks: successfully transformed setFocused/func_146195_b
+[22:51:15] [Client thread/INFO] [net.minecraft.client.multiplayer.GuiConnecting]: Connecting to kp-servers.ddns.net, 25565
+[22:51:16] [Netty Client IO #3/INFO] [FML]: Server protocol version 2
+[22:51:16] [Netty Client IO #3/INFO] [FML]: Attempting connection with missing mods [chunkanimator, ctm, inventorytweaks, journeymap, ptrmodellib] at SERVER
+[22:51:16] [Client thread/INFO] [FML]: Injecting existing registry data into this client instance
+[22:51:16] [Client thread/INFO] [FML]: Applying holder lookups
+[22:51:16] [Client thread/INFO] [FML]: Holder lookups applied
+[22:51:16] [Netty Client IO #3/INFO] [FML]: [Netty Client IO #3] Client side modded connection established
+[22:51:18] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[22:51:18] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[22:51:18] [Client thread/INFO] [journeymap]: Loading journeymap.topo.config
+[22:51:18] [Client thread/INFO] [journeymap]: Loaded 0 waypoints from C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\journeymap\data\mp\Minecraft~Server\waypoints
+[22:51:18] [Client thread/INFO] [journeymap]: Mapping started in C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\journeymap\data\mp\Minecraft~Server\DIM0. Memory: 2683MB total, 1341MB free 
+[22:51:19] [Netty Client IO #3/INFO] [tconstruct-Config]: Syncing Config with Server
+[22:51:23] [Client thread/INFO] [journeymap]: Mapping halted in C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\journeymap\data\mp\Minecraft~Server\DIM0
+[22:51:23] [Client thread/INFO] [FML]: Applying holder lookups
+[22:51:23] [Client thread/INFO] [FML]: Holder lookups applied
+[22:51:25] [Netty Client IO #4/INFO] [FML]: Attempting connection with missing mods [chunkanimator, ctm, inventorytweaks, journeymap, ptrmodellib] at SERVER
+[22:51:29] [Client thread/INFO] [net.minecraft.client.multiplayer.GuiConnecting]: Connecting to kp-servers.ddns.net, 25565
+[22:51:29] [Netty Client IO #5/INFO] [FML]: Server protocol version 2
+[22:51:29] [Netty Client IO #5/INFO] [FML]: Attempting connection with missing mods [chunkanimator, ctm, inventorytweaks, journeymap, ptrmodellib] at SERVER
+[22:51:29] [Client thread/INFO] [FML]: Injecting existing registry data into this client instance
+[22:51:30] [Client thread/INFO] [FML]: Applying holder lookups
+[22:51:30] [Client thread/INFO] [FML]: Holder lookups applied
+[22:51:30] [Netty Client IO #5/INFO] [FML]: [Netty Client IO #5] Client side modded connection established
+[22:51:31] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[22:51:31] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[22:51:31] [Client thread/INFO] [journeymap]: Loading journeymap.topo.config
+[22:51:31] [Client thread/INFO] [journeymap]: Loaded 0 waypoints from C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\journeymap\data\mp\The~Squad~s~Server\waypoints
+[22:51:31] [Client thread/INFO] [journeymap]: Mapping started in C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\journeymap\data\mp\The~Squad~s~Server\DIM0. Memory: 2677MB total, 1304MB free 
+[22:51:31] [Netty Client IO #5/INFO] [tconstruct-Config]: Syncing Config with Server
+[22:51:33] [Client thread/INFO] [journeymap]: Mapping halted in C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\journeymap\data\mp\The~Squad~s~Server\DIM0
+[22:51:34] [Client thread/INFO] [FML]: Applying holder lookups
+[22:51:34] [Client thread/INFO] [FML]: Holder lookups applied
+[22:51:35] [Netty Client IO #6/INFO] [FML]: Attempting connection with missing mods [chunkanimator, ctm, inventorytweaks, journeymap, ptrmodellib] at SERVER
+[22:51:51] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[22:51:51] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[22:51:51] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com

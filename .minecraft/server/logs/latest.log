@@ -1,0 +1,190 @@
+[22:44:12] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:44:12] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:44:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:44:12] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2838 for Minecraft 1.12.2 loading
+[22:44:12] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_201, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_201
+[22:44:13] [main/INFO] [FML]: Searching C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\server\.\mods for mods
+[22:44:13] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ChunkAnimator-MC1.12-1.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:44:13] [main/WARN] [FML]: The coremod lumien.chunkanimator.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:44:13] [main/WARN] [FML]: The coremod LoadingPlugin (lumien.chunkanimator.asm.LoadingPlugin) is not signed!
+[22:44:13] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-0.3.3.22.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:44:13] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:44:13] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[22:44:13] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:44:13] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:44:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:44:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:44:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:44:14] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:44:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:44:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:44:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:44:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:44:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:44:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:44:15] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[22:44:15] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[22:44:15] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[22:44:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[22:44:18] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2838 Initialized
+[22:44:18] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:44:18] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[22:44:18] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[22:44:18] [Server thread/INFO] [FML]: Config directory created successfully
+[22:44:19] [Server thread/INFO] [FML]: Searching C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\server\.\mods for mods
+[22:44:19] [Server thread/INFO] [FML]: Disabling mod chunkanimator it is client side only.
+[22:44:19] [Server thread/INFO] [FML]: Disabling mod ctm it is client side only.
+[22:44:19] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.59.842
+[22:44:19] [Server thread/INFO] [FML]: Disabling mod ptrmodellib it is client side only.
+[22:44:19] [Server thread/INFO] [FML]: Forge Mod Loader has identified 11 mods to load
+[22:44:19] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[22:44:19] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
+[22:44:19] [Server thread/INFO] [FML]: FML has found a non-mod file ChunkAnimator-MC1.12-1.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[22:44:19] [Server thread/INFO] [FML]: FML has found a non-mod file CTM-MC1.12.2-0.3.3.22.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[22:44:19] [Server thread/INFO] [FML]: FML has found a non-mod file PTRLib-1.0.4.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[22:44:20] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, chisel, props, ironchest, mantle, tconstruct, bspkrscore, treecapitator] at CLIENT
+[22:44:20] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, chisel, props, ironchest, mantle, tconstruct, bspkrscore, treecapitator] at SERVER
+[22:44:21] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselsandbitsIntegration; missing dependency: chiselsandbits
+[22:44:21] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
+[22:44:21] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse wailaIntegration; missing dependency: waila
+[22:44:21] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse theoneprobeIntegration; missing dependency: theoneprobe
+[22:44:21] [Server thread/INFO] [tconstruct]: Preparing to take over the world
+[22:44:21] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[22:44:21] [Server thread/INFO] [FML]: Found 1272 ObjectHolder annotations
+[22:44:21] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[22:44:21] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[22:44:21] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[22:44:21] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[22:44:21] [Server thread/INFO] [FML]: Applying holder lookups
+[22:44:21] [Server thread/INFO] [FML]: Holder lookups applied
+[22:44:21] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Original locale was en_GB, switching to Locale.US
+[22:44:21] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Locale is now en_US
+[22:44:21] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Locale was restored to en_GB
+[22:44:21] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[22:44:27] [Server thread/INFO] [Treecapitator]: Looks like a fresh config; default config loaded.
+[22:44:27] [Server thread/INFO] [Chisel]: Loading blocks...
+[22:44:27] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[22:44:27] [Server thread/INFO] [Chisel]: 71 Feature's blocks loaded.
+[22:44:27] [Server thread/INFO] [Chisel]: Loading Tile Entities...
+[22:44:27] [Server thread/INFO] [Chisel]: Tile Entities loaded.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.craftingstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.stenciltable`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partbuilder`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.patternchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolforge`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_controller`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_component`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.faucet`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_basin`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_drain`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.seared_furnace`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tinker_tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.item_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.drying_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.wooden_hopper`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.slime_channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:44:28] [Server thread/INFO] [FML]: Applying holder lookups
+[22:44:28] [Server thread/INFO] [FML]: Holder lookups applied
+[22:44:28] [Server thread/INFO] [Chisel]: Loading items...
+[22:44:28] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[22:44:28] [Server thread/INFO] [Chisel]: 71 Feature's items loaded.
+[22:44:28] [Server thread/INFO] [FML]: Applying holder lookups
+[22:44:28] [Server thread/INFO] [FML]: Holder lookups applied
+[22:44:28] [Server thread/INFO] [FML]: Applying holder lookups
+[22:44:28] [Server thread/INFO] [FML]: Holder lookups applied
+[22:44:28] [Server thread/INFO] [FML]: Applying holder lookups
+[22:44:28] [Server thread/INFO] [FML]: Holder lookups applied
+[22:44:28] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:44:28] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:44:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[22:44:28] [Server thread/WARN] [net.minecraft.server.dedicated.PropertyManager]: server.properties does not exist
+[22:44:28] [Server thread/INFO] [net.minecraft.server.dedicated.PropertyManager]: Generating new properties file
+[22:44:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[22:44:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[22:44:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[22:44:28] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[22:44:29] [Server thread/INFO] [Chisel]: Loading recipes...
+[22:44:29] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[22:44:29] [Server thread/INFO] [Chisel]: 71 Feature's recipes loaded.
+[22:44:29] [Server thread/INFO] [FML]: Applying holder lookups
+[22:44:29] [Server thread/INFO] [FML]: Holder lookups applied
+[22:44:29] [Server thread/INFO] [Chisel]: Received 22 IMC messages from mod tconstruct.
+[22:44:29] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:44:29] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:44:29] [Server thread/INFO] [Treecapitator]: Prioritizing User and IMC mod configs...
+[22:44:29] [Server thread/INFO] [Treecapitator]: Registering items and trees...
+[22:44:29] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 11 mods
+[22:44:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[22:44:30] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@146f6729)
+[22:44:30] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[22:44:31] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@146f6729)
+[22:44:31] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@146f6729)
+[22:44:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[22:44:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 12%
+[22:44:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 31%
+[22:44:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 37%
+[22:44:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 44%
+[22:44:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 58%
+[22:44:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 76%
+[22:44:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 95%
+[22:44:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (9.266s)! For help, type "help" or "?"
+[22:44:39] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:44:39] [Server thread/INFO] [FML]: Unloading dimension 1
+[22:46:46] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player pre05 is 09f4a4df-626b-4dea-8953-2cdf14b9fe8a
+[22:46:46] [Netty Server IO #2/INFO] [FML]: Client protocol version 2
+[22:46:46] [Netty Server IO #2/INFO] [FML]: Client attempting to join with 14 mods : minecraft@1.12.2,tconstruct@1.12.2-2.12.0.135,ptrmodellib@1.0.4,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,chunkanimator@1.2,chisel@MC1.12.2-0.2.1.35,props@2.6.2,forge@14.23.5.2838,mantle@1.12-1.3.3.49,mcp@9.42,ctm@MC1.12.2-0.3.3.22,ironchest@1.12.2-7.0.59.842,journeymap@1.12.2-5.5.4
+[22:46:46] [Netty Server IO #2/INFO] [FML]: Attempting connection with missing mods [bspkrscore, treecapitator] at CLIENT
+[22:46:46] [Netty Server IO #2/INFO] [FML]: Rejecting connection CLIENT: Treecapitator: Requires version at_0.9 but mod is not found on client.
+bspkrsCore: Requires version at_0.9 but mod is not found on client.
+[22:46:46] [Netty Server IO #2/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Treecapitator: Requires version at_0.9 but mod is not found on client.
+bspkrsCore: Requires version at_0.9 but mod is not found on client.
+[22:46:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: pre05 lost connection: Server Mod rejections:
+Treecapitator: Requires version at_0.9 but mod is not found on client.
+bspkrsCore: Requires version at_0.9 but mod is not found on client.
+[22:46:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pre05 left the game
+[22:48:11] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player pre05 is 09f4a4df-626b-4dea-8953-2cdf14b9fe8a
+[22:48:11] [Netty Server IO #4/INFO] [FML]: Client protocol version 2
+[22:48:11] [Netty Server IO #4/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,tconstruct@1.12.2-2.12.0.135,ptrmodellib@1.0.4,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,bspkrscore@at_0.9,chunkanimator@1.2,chisel@MC1.12.2-0.2.1.35,props@2.6.2,forge@14.23.5.2838,mantle@1.12-1.3.3.49,mcp@9.42,treecapitator@at_0.9,ctm@MC1.12.2-0.3.3.22,ironchest@1.12.2-7.0.59.842,journeymap@1.12.2-5.5.4
+[22:48:12] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:48:12] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: pre05[/127.0.0.1:51710] logged in with entity id 1929 at (-117.5, 68.0, 81.5)
+[22:48:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pre05 joined the game
+[22:49:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: pre05 lost connection: Disconnected
+[22:49:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pre05 left the game
+[22:51:16] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player pre05 is 09f4a4df-626b-4dea-8953-2cdf14b9fe8a
+[22:51:16] [Netty Server IO #6/INFO] [FML]: Client protocol version 2
+[22:51:16] [Netty Server IO #6/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,tconstruct@1.12.2-2.12.0.135,ptrmodellib@1.0.4,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,bspkrscore@at_0.9,chunkanimator@1.2,chisel@MC1.12.2-0.2.1.35,props@2.6.2,forge@14.23.5.2838,mantle@1.12-1.3.3.49,mcp@9.42,treecapitator@at_0.9,ctm@MC1.12.2-0.3.3.22,ironchest@1.12.2-7.0.59.842,journeymap@1.12.2-5.5.4
+[22:51:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:51:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: pre05[/31.53.133.155:1024] logged in with entity id 2868 at (-131.2634083980945, 70.0, 99.30450224436277)
+[22:51:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pre05 joined the game
+[22:51:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: pre05 lost connection: Disconnected
+[22:51:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pre05 left the game
+[22:51:29] [User Authenticator #4/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player pre05 is 09f4a4df-626b-4dea-8953-2cdf14b9fe8a
+[22:51:29] [Netty Server IO #8/INFO] [FML]: Client protocol version 2
+[22:51:29] [Netty Server IO #8/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,tconstruct@1.12.2-2.12.0.135,ptrmodellib@1.0.4,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,bspkrscore@at_0.9,chunkanimator@1.2,chisel@MC1.12.2-0.2.1.35,props@2.6.2,forge@14.23.5.2838,mantle@1.12-1.3.3.49,mcp@9.42,treecapitator@at_0.9,ctm@MC1.12.2-0.3.3.22,ironchest@1.12.2-7.0.59.842,journeymap@1.12.2-5.5.4
+[22:51:30] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:51:30] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: pre05[/31.53.133.155:1024] logged in with entity id 2918 at (-131.2634083980945, 70.0, 99.30450224436277)
+[22:51:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pre05 joined the game
+[22:51:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: pre05 lost connection: Disconnected
+[22:51:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pre05 left the game
