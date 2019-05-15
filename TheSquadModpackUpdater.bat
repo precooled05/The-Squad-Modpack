@@ -1,5 +1,6 @@
 @echo off
 title Updating Modpack
-git pull
+start CMD /C CALL git pull
+echo Modpack now up to date.
 title Modpack Updated
 pause

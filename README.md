@@ -1,4 +1,4 @@
-# The Squad Modpack Version 0.3.2
+# The Squad Modpack Version 0.3.3
 
 ### Mod List
 
