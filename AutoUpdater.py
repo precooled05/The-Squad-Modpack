@@ -1,6 +1,6 @@
 import subprocess
 
-DEBUG = False
+DEBUG = True
 
 try:
 	subprocess.call("git pull", shell=True)
