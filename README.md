@@ -5,7 +5,6 @@
 + [Chisel](https://minecraft.curseforge.com/projects/chisel)
 + [Chunk Animator](https://minecraft.curseforge.com/projects/chunk-animator)
 + [Decocraft 2](https://minecraft.curseforge.com/projects/decocraft2)
-+ [Hammer Time](https://minecraft.curseforge.com/projects/hammer-time?gameCategorySlug=mc-mods&projectID=237695)
 + [Inventory Tweaks](https://minecraft.curseforge.com/projects/inventory-tweaks)
 + [Iron Chests](https://minecraft.curseforge.com/projects/iron-chests)
 + [Just Enough Items (JEI)](https://minecraft.curseforge.com/projects/jei)

@@ -1,0 +1,97 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  CTMCorePlugin (CTM-MC1.12.2-0.3.3.22.jar)
+  LoadingPlugin (ChunkAnimator-MC1.12-1.2.jar)
+Contact their authors BEFORE contacting forge
+
+// You're mean.
+
+Time: 15/05/19 06:12
+Description: Exception in server tick loop
+
+net.minecraftforge.fml.common.LoaderException: net.minecraftforge.fml.common.LoaderException: Attempted to load a proxy type com.levoment.hammertools.proxy.ServerProxy into com.levoment.hammertools.HammerTools.proxy, but the types don't match
+	at net.minecraftforge.fml.common.ProxyInjector.inject(ProxyInjector.java:102)
+	at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:611)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:593)
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: net.minecraftforge.fml.common.LoaderException: Attempted to load a proxy type com.levoment.hammertools.proxy.ServerProxy into com.levoment.hammertools.HammerTools.proxy, but the types don't match
+	at net.minecraftforge.fml.common.ProxyInjector.inject(ProxyInjector.java:95)
+	... 32 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_201, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 5700545424 bytes (5436 MB) / 6029312000 bytes (5750 MB) up to 6029312000 bytes (5750 MB)
+	JVM Flags: 2 total; -Xmx6000M -Xms6000M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2838 20 mods loaded, 20 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID                   | Version           | Source                                                      | Signature                                |
+	|:----- |:-------------------- |:----------------- |:----------------------------------------------------------- |:---------------------------------------- |
+	| LC    | minecraft            | 1.12.2            | minecraft.jar                                               | None                                     |
+	| LC    | mcp                  | 9.42              | minecraft.jar                                               | None                                     |
+	| LC    | FML                  | 8.0.99.99         | forge-1.12.2-14.23.5.2838-universal.jar                     | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LC    | forge                | 14.23.5.2838      | forge-1.12.2-14.23.5.2838-universal.jar                     | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LC    | chameleon            | 1.12-4.1.3        | Chameleon-1.12-4.1.3.jar                                    | None                                     |
+	| LC    | chisel               | MC1.12.2-0.2.1.35 | Chisel-MC1.12.2-0.2.1.35.jar                                | None                                     |
+	| LC    | props                | 2.6.2             | Decocraft-2.6.2_1.12.2.jar                                  | None                                     |
+	| LE    | levoment_hammertools | 1.0               | HammerTools-1.12.2-1.0.jar                                  | None                                     |
+	| L     | ironchest            | 1.12.2-7.0.59.842 | ironchest-1.12.2-7.0.59.842.jar                             | None                                     |
+	| L     | primitivecrafting    | 1.3.1             | PrimitiveCrafting+MC1.12.2+v1.3.1.jar                       | None                                     |
+	| L     | jei                  | 4.15.0.268        | jei_1.12.2-4.15.0.268.jar                                   | None                                     |
+	| L     | mantle               | 1.12-1.3.3.49     | Mantle-1.12-1.3.3.49.jar                                    | None                                     |
+	| L     | movinglightsource    | 1.0.15            | movinglightsource-1.12.2-1.0.15.jar                         | None                                     |
+	| L     | harvestcraft         | 1.12.2zb          | Pam's+HarvestCraft+1.12.2zc+The+7mm+Kidney+Stone+Update.jar | None                                     |
+	| L     | roost                | 2.0.10            | roost-1.12.2-2.0.10.jar                                     | None                                     |
+	| L     | signpost             | 1.06.1            | signpost-1.12-1.06.1.jar                                    | None                                     |
+	| L     | storagedrawers       | 1.12-5.3.5        | StorageDrawers-1.12.2-5.3.8.jar                             | None                                     |
+	| L     | tconstruct           | 1.12.2-2.12.0.135 | TConstruct-1.12.2-2.12.0.135.jar                            | None                                     |
+	| L     | bspkrscore           | at_0.9            | Treecapitator-1.12-at_0.9a.jar                              | None                                     |
+	| L     | treecapitator        | at_0.9            | Treecapitator-1.12-at_0.9a.jar                              | None                                     |
+
+	Loaded coremods (and transformers): 
+CTMCorePlugin (CTM-MC1.12.2-0.3.3.22.jar)
+  team.chisel.ctm.client.asm.CTMTransformer
+LoadingPlugin (ChunkAnimator-MC1.12-1.2.jar)
+  lumien.chunkanimator.asm.ClassTransformer
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
