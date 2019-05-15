@@ -1,12 +1,9 @@
-#Wed May 15 04:01:49 BST 2019
-bloom=false
-YCoCg_Compression=true
-waterShader=false
-shadowDistance=60.0f
-rainPuddles=false
-clouds=false
-shadowMapResolution=512
-volumetricLight=false
-softShadows=false
-reflections=false
+#Wed May 15 15:22:53 BST 2019
+shadowDistance=80.0f
 fogBlur=false
+softShadows=false
+shadowMapResolution=1024
+volumetricLight=false
+YCoCg_Compression=true
+bloom=false
+clouds=false

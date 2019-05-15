@@ -1,7 +1,7 @@
-[06:14:45] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
-[06:14:45] [Client thread/INFO] [JourneymapClient] initialize ENTER
-[06:14:45] [Client thread/ERROR] [JMLogger] Default theme not found in C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\journeymap\icon\theme\flat\OceanMonument.theme2.json: OceanMonument (SUPPRESSED)
-[06:14:45] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.5.4, built with Forge 14.23.5.2768
+[15:18:29] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[15:18:29] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[15:18:29] [Client thread/ERROR] [JMLogger] Default theme not found in C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\journeymap\icon\theme\flat\OceanMonument.theme2.json: OceanMonument (SUPPRESSED)
+[15:18:29] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.5.4, built with Forge 14.23.5.2768
 Forge: 14.23.5.2838
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Features: 
@@ -12,32 +12,33 @@ Features:
 	MapTopo : singleplayer = true , multiplayer = true
 	MapSurface : singleplayer = true , multiplayer = true
 	MapCaves : singleplayer = true , multiplayer = true
-MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.5.4, zoomLevel=2, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Game Time, sizePercent=20, showDayNight=true, info3Label=Location, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, shape=Square, showSelf=true, info4Label=Biome, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=Compass, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Bottom Left, info1Label=FPS, fontScale=2}
+MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.5.4, zoomLevel=2, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Game Time, sizePercent=20, showDayNight=true, info3Label=Location, showMobs=true, showPets=true, preferredMapType=night, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, shape=Square, showSelf=true, info4Label=Biome, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=Compass, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Bottom Left, info1Label=FPS, fontScale=2}
 MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.5.4, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Game Time, sizePercent=30, showDayNight=true, info3Label=Location, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, shape=Rectangle, showSelf=true, info4Label=Biome, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=Compass, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, info1Label=Blank, fontScale=1}
 FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.5.4, mobDisplay=Small Dots, zoomLevel=1, showPlayers=true, showSelf=true, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showKeys=true, showWaypointLabels=true, locationFormatVerbose=true, showMobs=true, showPets=true, fontScale=1, preferredMapType=day}
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.5.4, createDeathpoints=true, showName=true, maxDistance=0, autoHideLabel=true, showStaticBeam=true, minDistance=4, boldLabel=false, textureSmall=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.5.4, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, showEntityNames=true, enabled=false, googleMapApiDomain=.com, preferredMapType=day}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.5.4, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, optionsManagerViewed=5.5.4, announceMod=true, colorPassive=#bbbbbb, renderOverlayEventTypeName=ALL, mapBlendWater=false, renderDistanceSurfaceMax=7, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=Circle, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mapBlendFoliage=true, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=3, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.5.4, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, renderOverlayPreEvent=true, autoMapPoll=2000}
-[06:14:45] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
-[06:14:45] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[06:14:45] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
-[06:14:46] [Client thread/DEBUG] [JourneymapClient] postInitialize ENTER
-[06:14:46] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.KeyEventHandler
-[06:14:46] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.ChatEventHandler
-[06:14:46] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.StateTickHandler
-[06:14:46] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WorldEventHandler
-[06:14:46] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WaypointBeaconHandler
-[06:14:46] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.TextureAtlasHandler
-[06:14:46] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.MiniMapOverlayHandler
-[06:14:46] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.world.ChunkMonitor
-[06:14:46] [Client thread/ERROR] [FileHandler] Couldn't locate icons for Default: C:\ProgramData\MultiMC\instances\The%20Squad%20Modpack\.minecraft\mods\journeymap-1.12.2-5.5.4.jar\assets\journeymap\icon\entity
-[06:14:46] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
-[06:14:46] [Client thread/TRACE] [ThemeLoader] Initializing themes ...
-[06:14:46] [Client thread/ERROR] [FileHandler] Couldn't locate icons for flat: C:\ProgramData\MultiMC\instances\The%20Squad%20Modpack\.minecraft\mods\journeymap-1.12.2-5.5.4.jar\assets\journeymap\theme\flat
-[06:14:46] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 0
-[06:14:46] [Client thread/DEBUG] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r238.38§8ms§r
-[06:15:34] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[06:15:34] [Client thread/INFO] [WaypointStore] Loaded 3 waypoints from C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\journeymap\data\mp\The~Squad~s~Server\waypoints
-[06:15:34] [Client thread/INFO] [JourneymapClient] Mapping started in C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\journeymap\data\mp\The~Squad~s~Server\DIM0. Memory: 3722MB total, 906MB free 
-[06:15:34] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
-[06:16:42] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\journeymap\data\mp\The~Squad~s~Server\DIM0
+[15:18:29] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
+[15:18:29] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[15:18:29] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
+[15:18:29] [Client thread/DEBUG] [JourneymapClient] postInitialize ENTER
+[15:18:29] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.KeyEventHandler
+[15:18:29] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.ChatEventHandler
+[15:18:29] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.StateTickHandler
+[15:18:29] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WorldEventHandler
+[15:18:29] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WaypointBeaconHandler
+[15:18:29] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.TextureAtlasHandler
+[15:18:29] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.MiniMapOverlayHandler
+[15:18:29] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.world.ChunkMonitor
+[15:18:29] [Client thread/ERROR] [FileHandler] Couldn't locate icons for Default: C:\ProgramData\MultiMC\instances\The%20Squad%20Modpack\.minecraft\mods\journeymap-1.12.2-5.5.4.jar\assets\journeymap\icon\entity
+[15:18:29] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[15:18:29] [Client thread/TRACE] [ThemeLoader] Initializing themes ...
+[15:18:29] [Client thread/ERROR] [FileHandler] Couldn't locate icons for flat: C:\ProgramData\MultiMC\instances\The%20Squad%20Modpack\.minecraft\mods\journeymap-1.12.2-5.5.4.jar\assets\journeymap\theme\flat
+[15:18:29] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 0
+[15:18:29] [Client thread/DEBUG] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r237.31§8ms§r
+[15:18:53] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[15:18:53] [Client thread/INFO] [WaypointStore] Loaded 3 waypoints from C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\journeymap\data\mp\The~Squad~s~Server\waypoints
+[15:18:53] [Client thread/INFO] [JourneymapClient] Mapping started in C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\journeymap\data\mp\The~Squad~s~Server\DIM0. Memory: 3263MB total, 463MB free 
+[15:18:53] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
+[15:18:58] [Client thread/INFO] [StateTickHandler] pre05 died at BlockPos{x=-694, y=78, z=-1214}. Deathpoints enabled: true. Deathpoint created: true
+[15:23:28] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\ProgramData\MultiMC\instances\The Squad Modpack\.minecraft\journeymap\data\mp\The~Squad~s~Server\DIM0

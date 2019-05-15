@@ -2,9 +2,13 @@
 
 ### Mod List
 
++ [Ambient Sounds 3](https://minecraft.curseforge.com/projects/ambientsounds)
++ [Carry On](https://minecraft.curseforge.com/projects/carry-on)
 + [Chisel](https://minecraft.curseforge.com/projects/chisel)
 + [Chunk Animator](https://minecraft.curseforge.com/projects/chunk-animator)
 + [Decocraft 2](https://minecraft.curseforge.com/projects/decocraft2)
++ [Doggy Talents](https://minecraft.curseforge.com/projects/doggy-talents)
++ [Grappling Hook Mod](https://minecraft.curseforge.com/projects/grappling-hook-mod)
 + [Inventory Tweaks](https://minecraft.curseforge.com/projects/inventory-tweaks)
 + [Iron Chests](https://minecraft.curseforge.com/projects/iron-chests)
 + [Just Enough Items (JEI)](https://minecraft.curseforge.com/projects/jei)
@@ -17,6 +21,7 @@
 + [Signpost](https://minecraft.curseforge.com/projects/signpost)
 + [Storage Drawers](https://minecraft.curseforge.com/projects/storage-drawers)
 + [Tinkers Construct](https://minecraft.curseforge.com/projects/tinkers-construct)
++ [Torch Lever](https://minecraft.curseforge.com/projects/torch-lever)
 + [Treecapitator Port](https://minecraft.curseforge.com/projects/treecapitator-port)
 
 
