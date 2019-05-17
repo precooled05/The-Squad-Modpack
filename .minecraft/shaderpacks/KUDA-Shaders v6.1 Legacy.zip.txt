@@ -1,9 +1,9 @@
-#Wed May 15 15:22:53 BST 2019
+#Wed May 15 21:49:23 BST 2019
 shadowDistance=80.0f
 fogBlur=false
-softShadows=false
 shadowMapResolution=1024
 volumetricLight=false
 YCoCg_Compression=true
 bloom=false
+fixUndergroundShadows=true
 clouds=false

@@ -1,8 +1,9 @@
-# The Squad Modpack Version 0.3.4
+# The Squad Modpack Version 0.4.1
 
 ### Mod List
 
 + [Ambient Sounds 3](https://minecraft.curseforge.com/projects/ambientsounds)
++ [Buildcraft](https://mod-buildcraft.com)
 + [Carry On](https://minecraft.curseforge.com/projects/carry-on)
 + [Chisel](https://minecraft.curseforge.com/projects/chisel)
 + [Chunk Animator](https://minecraft.curseforge.com/projects/chunk-animator)

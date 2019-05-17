@@ -15,7 +15,7 @@ difficulty:1
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:["§lDefault+3D§r+Medium++++§l17w49.zip"]
+resourcePacks:[]
 incompatibleResourcePacks:[]
 lastServer:kp-servers.ddns.net
 lang:en_us
